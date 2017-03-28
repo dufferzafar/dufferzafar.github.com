@@ -1,0 +1,29 @@
+# author:
+  # name: Shadab Zafar
+  # url: https://github.com/dufferzafar
+
+title: duffer's log
+tagline: life. philosophy. code
+description: Super Coder.
+
+theme: minima
+
+permalink: pretty
+
+# highlighter: pygments
+
+gems:
+  - jekyll-feed
+  - jekyll-sitemap
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - Blog.sublime-project
+  - Blog.sublime-workspace
+
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  hard_wrap: false
