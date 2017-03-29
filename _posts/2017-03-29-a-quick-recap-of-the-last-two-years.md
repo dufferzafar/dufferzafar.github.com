@@ -64,10 +64,10 @@ Oct '16:
 
   * Attended PyCon India @ JNU Delhi.
 
-Feb '16:
+Feb '17:
 
   * Gave GATE'17.
 
-Mar '16:
+Mar '17:
 
   * Found that I got AIR 59 in GATE. Yay!
