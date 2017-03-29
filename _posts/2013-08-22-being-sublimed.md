@@ -2,8 +2,6 @@
 layout: post
 title: "Being Sublimed!"
 date: 2013-08-22 14:36
-comments: false
-categories: Code
 ---
 
 I've made a few tweaks to sublime text, you know, to make life that bit easier.

@@ -2,9 +2,6 @@
 layout: post
 title: "This Octopress Blog"
 date: 2013-12-31 01:53
-comments: false
-published: true
-categories: 
 ---
 
 This blog used to run on something called [Wordpress](http://wordpress.org/) until I decided to switch to something called [Octopress](http://octopress.org/) which in turn is based on something called [Jekyll](http://jekyllrb.com/).

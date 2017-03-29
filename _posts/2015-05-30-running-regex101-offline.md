@@ -2,8 +2,6 @@
 layout: post
 title: "Running Regex101 Offline"
 date: 2015-05-30 03:23:19 +0530
-comments: true
-categories: 
 ---
 
 I was working on something when I suddenly needed some regex-fu. I opened a new browser tab, typed `regex101` and pressed enter, and then I realized, I am at a place where sites usually take five fucking minutes to load up.

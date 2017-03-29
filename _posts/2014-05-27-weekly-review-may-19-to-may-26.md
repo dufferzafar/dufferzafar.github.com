@@ -2,9 +2,6 @@
 layout: post
 title: "Weekly review - May 19 to May 26"
 date: 2014-05-27 14:46
-comments: false
-published: true
-categories: Weekly
 ---
 
 *I need to write a weekly review e-mail every monday to the MB Devel Mailing list for my GSoC project. So, I thought I might as well post a full description of what I did during the week on the blog. I'm not sure if I'll do it every week, but I feel like writing something right now, so here it goes.*

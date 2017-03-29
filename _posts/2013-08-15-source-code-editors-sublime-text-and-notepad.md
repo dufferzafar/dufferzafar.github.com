@@ -2,8 +2,6 @@
 layout: post
 title: "Source Code Editors: Sublime text and Notepad++"
 date: 2013-08-15 08:39
-comments: false
-categories: Code
 ---
 
 For a coder, the choice of a text editor is almost a political statement. Everybody has, and should have, their own personal preferences. Part of the appeal of the editor comes from its leanness and simplicity. Here are two of the best code editors, although I'd highly recommend sublime text, I just can't seem to let go of Notepad++. Old habits die hard, as they say.

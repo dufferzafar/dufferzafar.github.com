@@ -2,9 +2,6 @@
 layout: post
 title: "Gaming the github streak"
 date: 2013-12-21 22:54
-comments: false
-published: true
-categories:
 ---
 
 On 29th November I did something (un)cool - I cheated.

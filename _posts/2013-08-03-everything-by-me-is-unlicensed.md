@@ -2,8 +2,6 @@
 layout: post
 title: "Everything by me is unlicensed"
 date: 2013-08-03 15:55
-comments: false
-categories: Code
 ---
 
 I've never really understood software licenses. What are they? Why are they needed? Who are they trying to protect and from whom? And do they even serve a purpose? Frankly speaking, I don't even want to know. I sort of hate them.

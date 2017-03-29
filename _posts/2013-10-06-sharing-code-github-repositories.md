@@ -2,8 +2,6 @@
 layout: post
 title: "Sharing Code - Github repositories"
 date: 2013-09-29 18:08
-comments: false
-categories: Code
 ---
 
 Writing code is one thing, but sharing with the world is a different story altogether.

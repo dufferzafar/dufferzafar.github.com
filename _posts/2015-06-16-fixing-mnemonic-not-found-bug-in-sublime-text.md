@@ -2,8 +2,6 @@
 layout: post
 title: "Fixing mnemonic not found bug in Sublime Text"
 date: 2015-06-16 04:25:14 +0530
-comments: true
-categories:
 ---
 
 I was using the Sublime's built in console (accessed by <code>Ctrl+`</code>) to perform some calculations when suddenly my console got filled with some weird warnings.

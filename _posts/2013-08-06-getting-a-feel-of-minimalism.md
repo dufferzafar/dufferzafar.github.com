@@ -2,7 +2,6 @@
 layout: post
 title: "Getting a feel of minimalism"
 date: 2013-08-06 16:02
-comments: false
 ---
 
 Pardon my use of the first person narrative. It was an experiment that probably turned out bad.

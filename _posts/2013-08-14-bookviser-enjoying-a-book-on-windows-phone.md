@@ -2,8 +2,6 @@
 layout: post
 title: "Bookviser: Enjoying a book on windows phone"
 date: 2013-08-14 23:42
-comments: false
-categories: WP
 --- 
 
 Quite evidently, there's a lack of good apps for windows phone. I could do away with a lesser number of social networking options available but a decent ebook reader, come on, I just can't live without one.

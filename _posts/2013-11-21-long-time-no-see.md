@@ -2,9 +2,6 @@
 layout: post
 title: "Long time no see!"
 date: 2013-11-21 13:03
-comments: false
-published: true
-categories: Life
 ---
 
 I haven't posted anything for quite some time. It's not that I've been away form keyboard - I've been as close to it as one can get.

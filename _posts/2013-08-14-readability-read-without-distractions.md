@@ -2,8 +2,6 @@
 layout: post
 title: "Readability: Read without distractions"
 date: 2013-08-14 22:49
-comments: false
-categories: WP
 ---
 
 I read a lot, a heck lot actually. Be it quora, wikipedia or some random article on a blog. But the problem with reading on the web is the distraction that comes with it. You are constantly bugged by some image on a sidebar or that annoying ad on the top of the article. But worry no more, because I've just found a great way of reading web articles, by stripping them down just to the core: the central text.

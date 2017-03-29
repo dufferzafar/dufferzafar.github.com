@@ -2,8 +2,6 @@
 layout: post
 title: "Yet Another Github Streak Hack"
 date: 2015-08-16 21:29:59 +0530
-comments: false
-categories: 
 ---
 
 I wrote about a Github streak hack some time ago which involved changing system date to make commits in the past. How lame.

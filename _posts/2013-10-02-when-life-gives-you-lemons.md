@@ -2,8 +2,6 @@
 layout: post
 title: "When life gives you lemons..."
 date: 2013-10-02 10:12
-comments: false
-categories: Life
 ---
 
 I messed up really big time the day before yesterday. I was working on Cryptex - a hacking challenge sort-of thing. I don't exactly remember what I was doing, maybe renaming some files... when I saw a folder that shouldn't have been there, so I did what I always do - press Shift+Delete followed by Enter.

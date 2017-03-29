@@ -2,9 +2,6 @@
 layout: post
 title: "It's been five years"
 date: 2014-03-12 17:07
-comments: false
-published: true
-categories: 
 ---
 
 I was writing the "About Me" section of my GSoC proposal. 

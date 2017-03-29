@@ -2,8 +2,6 @@
 layout: post
 title: "How I listed IDs of all my facebook friends"
 date: 2015-06-14 00:40:40 +0530
-comments: true
-categories: 
 ---
 
 I've been working on grabbing data from Web 2.0 sites like Facebook, Github, Last.fm etc. The plan is to come up with something kick ass to do with all this data. But first, we need to grab it all!

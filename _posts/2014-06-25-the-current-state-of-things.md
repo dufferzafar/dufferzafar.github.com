@@ -2,9 +2,6 @@
 layout: post
 title: "The current state of things."
 date: 2014-06-25 15:14
-comments: false
-published: true
-categories: 
 ---
 
 I didn't write the weekly review post I was supposed to the last week and won't be doing it this week either (or the weeks to come) as I now see no point in writing them - why'd anyone be interested in reading my journal entries?

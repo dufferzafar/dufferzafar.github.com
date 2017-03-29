@@ -2,9 +2,6 @@
 layout: post
 title: "Weekly review - May 27 to June 2"
 date: 2014-06-03 18:36
-comments: false
-published: true
-categories: Weekly
 ---
 
 *This is the second post in my weekly review series - where I just write out whatever it was that I did during the week. Unlike the first one, I don't really feel writing this one, but am doing it just because I don't want to break the chain.*

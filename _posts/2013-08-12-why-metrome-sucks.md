@@ -2,7 +2,6 @@
 layout: post
 title: "Why metroMe sucks?"
 date: 2013-08-12 16:06 +0530
-comments: false
 ---
 
 I've decided to abandon metroMe and am now working on yet another website design codenamed miniMe. I've also decided to blog the entire process of development. So this article is the first of many that I'd be posting (fingers crossed) in the coming days.

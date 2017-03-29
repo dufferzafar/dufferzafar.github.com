@@ -2,8 +2,6 @@
 layout: post
 title: "miniMe Paused - Cryptex Resumed"
 date: 2013-09-12 09:51
-comments: false
-categories: Life
 ---
 
 And it happened yet again I switched projects - something I often do.

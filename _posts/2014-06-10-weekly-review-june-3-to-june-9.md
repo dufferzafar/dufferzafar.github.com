@@ -2,9 +2,6 @@
 layout: post
 title: "Weekly review - June 3 to June 9"
 date: 2014-06-10 22:12
-comments: false
-published: true
-categories: Weekly
 ---
 
 *I think I've got into the habit of writing these. Good for me.*

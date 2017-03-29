@@ -2,8 +2,6 @@
 layout: post
 title: "Good artists copy, great artists steal"
 date: 2013-08-02 15:52
-comments: false
-categories: Philosophy
 ---
 
 I have this mundane habit of not starting things from scratch, whenever possible. It is a life philosophy. Unless I am doing something purely for concept building purposes, I hardly write my own code.

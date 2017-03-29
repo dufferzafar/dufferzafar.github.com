@@ -2,9 +2,6 @@
 layout: post
 title: "Tools for windows developers and power users"
 date: 2013-12-24 00:18
-comments: false
-published: true
-categories: 
 ---
 
 _This post is half-baked currently. I plan to add links and screenshots of some applications. I also have to write brief reviews of each. Until next time..._
