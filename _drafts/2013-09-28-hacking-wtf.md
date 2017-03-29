@@ -2,9 +2,6 @@
 layout: post
 title: "Hacking WTF!"
 date: 2013-09-28 08:56
-comments: false
-published: false
-categories:
 ---
 
 This page won't teach you how to hack, so if you were here for that sorry but you'll just end up wasting your time.

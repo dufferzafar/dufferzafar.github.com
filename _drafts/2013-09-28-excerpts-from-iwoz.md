@@ -2,9 +2,6 @@
 layout: post
 title: "Excerpts from iWoz"
 date: 2013-09-28 09:04
-comments: false
-published: false
-categories: Philosophy
 ---
 
 After leaving Steve Jobs' biography in the middle, I decided to read Wozniak's account and thankfully completed it. The book turned out to be a great read, even though the language was a bit sloppy but it was all overshadowed by Woz's passion for computers and electronics.
