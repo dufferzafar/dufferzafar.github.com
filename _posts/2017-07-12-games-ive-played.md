@@ -65,6 +65,8 @@ I think I'll play it again someday with a Game of Thrones mod. That'll be cool.
 
 The latest addition to my list of escapist-things-to-do. I found this last month by mistake when the KDE launcher suggested me to install it. 
 
+![KRunner recommends endless sky](/images/kde-recommends-endless-sky.png)
+
 I googled around and boy was I interested in a "space exploration and combat game". What made me even more interestd was the fact that it was Open Source and was actively being developed.
 
 At the beginning, I fully immeresed myself in the game, playing for over 10 hours a day. Since it was Ramzan, I would fast and just play the game all day. When I was not playing the game I would read about it, on Reddit or Steam. When there was nothing left to read, I started chatting with other players on Discord, discussing game strategies with them.
