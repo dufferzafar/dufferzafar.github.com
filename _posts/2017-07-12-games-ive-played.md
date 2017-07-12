@@ -41,7 +41,7 @@ I played the android version last year but it wasn't as much fun. I still play t
 
 ### Tekken 3
 
-I don't remember the first time I played tekken but I imagine it was on that arcade-game-machine somewhere. What I do remember though is playing this in 12th (and my drop year), practicing combos (with Paul & Eddy), having matches agains Amit & Ravi.
+I don't remember the first time I played tekken but I imagine it was on that arcade-game-machine somewhere. What I do remember though is playing this in 12th (and my drop year), practicing combos (with Paul & Eddy), having matches against Amit & Ravi.
 
 I don't play it anymore because I don't think my laptop keyboard will be able to take the beating.
 
@@ -55,7 +55,7 @@ Later, I torrented the game, but realized I just wasn't interested anymore.
 
 ### Skyrim
 
-I was introduced to this by Abhishek (or was it Shivam?) I only started playing it because another RPG sounded cool. But man, was I blown away by the world. Everything was epic, from armor to dragons! 
+I was introduced to this by Abhishek (or was it Shivam?) and only started playing it because another RPG sounded cool. But man, was I blown away by the world. Everything was epic, from armor to dragons! 
 
 The three of us used to play the game at home and discuss it in college. Fun days!
 
@@ -67,7 +67,7 @@ The latest addition to my list of escapist-things-to-do. I found this last month
 
 ![KRunner recommends endless sky](/images/kde-recommends-endless-sky.png)
 
-I googled around and boy was I interested in a "space exploration and combat game". What made me even more interestd was the fact that it was Open Source and was actively being developed.
+I've always had a thing for 'space' so I googled around and boy was I interested in a "space exploration and combat game". What made me even more interestd was the fact that it was Open Source and was actively being developed.
 
 At the beginning, I fully immeresed myself in the game, playing for over 10 hours a day. Since it was Ramzan, I would fast and just play the game all day. When I was not playing the game I would read about it, on Reddit or Steam. When there was nothing left to read, I started chatting with other players on Discord, discussing game strategies with them.
 
