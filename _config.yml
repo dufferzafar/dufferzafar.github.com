@@ -1,6 +1,6 @@
-# author:
-  # name: Shadab Zafar
-  # url: https://github.com/dufferzafar
+author:
+  name: Shadab Zafar
+  url: https://github.com/dufferzafar
 
 title: duffer's log
 tagline: life. philosophy. code
@@ -27,3 +27,7 @@ markdown: kramdown
 kramdown:
   input: GFM
   hard_wrap: false
+
+timezone: Asia/Kolkata
+
+future: true
