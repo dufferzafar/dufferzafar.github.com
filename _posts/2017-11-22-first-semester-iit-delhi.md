@@ -66,7 +66,7 @@ The TA work is paid so I've been getting ₹12,000 on every 1st of the month, in
 
 ## Notes
 
-Harish makes really good notes and with the help of CamScanner I converted them to PDFs. Here they are. 
+Harish makes really good notes and with the help of CamScanner I converted them to PDFs. [Here they are](https://drive.google.com/drive/folders/1BsWuAbrOppKATdcxeuCjkiplDPTmSy_1?usp=sharing). 
 
 ## Result & Future
 
