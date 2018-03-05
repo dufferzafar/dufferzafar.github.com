@@ -223,3 +223,7 @@ And the best part - you don't require any login.
 <i>
 I could just give you the URL and you'll have have AADHAAR and PAN details of students and their parents, but who cares right?
 </i>
+
+<hr>
+
+If you liked this post, you might also be interested in [my first semester wrap-up post](http://dufferzafar.github.io/2017/12/01/first-semester-iit-delhi/).
