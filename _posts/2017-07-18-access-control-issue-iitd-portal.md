@@ -120,7 +120,7 @@ Now there are a lot of ways the cookies can be exported (via extensions etc.) bu
 I copied the browser request to the PDF as a CURL command which looked like this: 
 
 ```bash
-curl 'https://academics2.iitd.ac.in/ugpg2016/uploads/2017MCS2076.pdf' -H 'Host: academics2.iitd.ac.in' 
+curl 'https://portal/uploads/2017MCS2076.pdf' -H 'Host: portal.in' 
 -H 'User-Agent: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:54.0) Gecko/20100101 Firefox/54.0' 
 -H 'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8' -H 'Accept-Language: en-US,en;q=0.5' 
 --compressed -H 'Cookie: SESS1dragonstone=aryarocks; PHPSESSID=jonsnowacchabacchahai' 
