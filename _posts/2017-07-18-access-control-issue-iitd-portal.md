@@ -5,7 +5,7 @@ date:   2017-07-18 7:03:48
 ---
 
 <i>
-I initiall wrote this post, published it publicly on the blog, and later removed it when Shivam & Aditya both felt that someone from IIT might see it and penalize me. I now feel that we were overestimating the danger and no one really cares.
+I initially wrote this post, published it publicly on the blog, and later removed it when Shivam & Aditya both felt that someone from IIT might see it and penalize me. I now feel that we might be overestimating the danger and no one really cares.
 </i>
 
 This is a post on how I wrote a script that downloaded details of everyone who is in my MTech Batch. 
@@ -24,12 +24,7 @@ The thing about numbers is, there's always the next one.
 
 So I entered a number that was closer to mine and sure enough, I could see all their details.
 
-Well...
-
-Are you thinking what I'm thinking?
-
-<br><br>
-WE. CAN. AUTOMATE. THIS.
+Hm, I thought, we can surely automate this.
 <br><br><br>
 
 
