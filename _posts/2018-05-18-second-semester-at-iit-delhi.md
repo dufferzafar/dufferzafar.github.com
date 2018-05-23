@@ -13,9 +13,9 @@ This was a very hectic semester; even though all of them are supposed to have th
 I had three courses & a project this semester : 
 
 * Network Security (SIL 765) by B. N. Jain
-* [Spl. Topics in High Speed Networks - Blockchains (COL 867)](https://web.archive.org/web/20180522050229/http://www.cse.iitd.ernet.in/~vinay/courses/COL867_s18.html) by Vinay Riebero
+* [Spl. Topics in High Speed Networks - Blockchains (COL 867)](https://web.archive.org/web/20180522050229/http://www.cse.iitd.ernet.in/~vinay/courses/COL867_s18.html) by Vinay Ribeiro
 * [Machine Learning (COL 774)](https://web.archive.org/web/20180522050126/http://www.cse.iitd.ac.in/~parags/teaching/col774/) by Parag Singla
-* Minor Project under Vinay Riebero
+* Minor Project under Vinay Ribeiro
 
 <!-- more -->
 
