@@ -70,7 +70,7 @@ Harish makes really good notes and with the help of CamScanner I converted them 
 
 ## Result & Future
 
-I scored A in COP - that's 10 points. B- in ILFP (8 points) and B in ADS (7 points) for a total SGPA of 8.1 which is good enough for me.
+I scored A in COP - that's 10 points. B in ILFP (8 points) and B- in ADS (7 points) for a total SGPA of 8.18 which is good enough for me.
 
 I have high hopes from the next semester though mostly because the subjects will be of my interest. I've chosen "Advanced Computer Networks" and "Network & System Security". There's also a DBMS course which I'll try to get waived (by clearing a test.)
 
