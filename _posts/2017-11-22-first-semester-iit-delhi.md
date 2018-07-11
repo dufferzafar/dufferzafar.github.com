@@ -10,7 +10,7 @@ I had three courses this semester (all of which were compulsory):
 
 * Introduction to Logic and Functional Programming (ILFP) by Sanjiva Prasad
 * Advanced Data Structures and Algorithms (ADA) by Sandeep Sen
-* Software Programming Lab
+* Software Programming Lab (COP)
 
 <!-- more -->
 
