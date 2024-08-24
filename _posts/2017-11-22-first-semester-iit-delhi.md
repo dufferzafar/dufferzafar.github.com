@@ -6,7 +6,7 @@ date:   2017-12-01 23:17:47
 
 My first semester of M. Tech at IIT D has ended.
 
-I had three courses this semester (all of which were compulsory): 
+I had three courses this semester (all of which were compulsory):
 
 * Introduction to Logic and Functional Programming (ILFP) by Sanjiva Prasad
 * Advanced Data Structures and Algorithms (ADA) by Sandeep Sen
@@ -16,12 +16,12 @@ I had three courses this semester (all of which were compulsory):
 
 ### Introduction to Logic and Functional Programming
 
-This was a very unique course - one that I would never have taken by choice, but having passed, I'm sort of glad that I did. There was a bunch of really cool things I learnt, perhaps the most important of which is the OCaml language. We did 6 assignments in OCaml that involved modeling some logical structure like Sets, Proof Trees etc. One of the defining features of the language is its strongly typed nature. I'd always read how static typing could prevent bugs etc. but getting to see it myself was a good experience. Projects like mypy do make some sense to me now - just knowing the type of every object makes reasoning about the code easier - both while developing and debugging. 
+This was a very unique course - one that I would never have taken by choice, but having passed, I'm sort of glad that I did. There was a bunch of really cool things I learnt, perhaps the most important of which is the OCaml language. We did 6 assignments in OCaml that involved modeling some logical structure like Sets, Proof Trees etc. One of the defining features of the language is its strongly typed nature. I'd always read how static typing could prevent bugs etc. but getting to see it myself was a good experience. Projects like mypy do make some sense to me now - just knowing the type of every object makes reasoning about the code easier - both while developing and debugging.
 
 As always, all the code I've written can be found here: [https://github.com/dufferzafar/oh-camel](https://github.com/dufferzafar/oh-camel)
 
 This was a pretty challenging course and for several reasons:
-    
+
 * There was no book to follow
 
 It's not like there are no Logic textbooks, but the problem is that everyone uses different syntax and presents topics in different orders which is enough to scare off a novice.
@@ -50,7 +50,7 @@ The assignments were (links to GitHub repositories):
 
 The ledger was a tricky project because we didn't have much knowledge of distributed systems so we couldn't understand most of the assignment until much later. It was also the one where we learnt a lot - distributed hash tables (esp. [Kadmelia](https://en.wikipedia.org/wiki/Kademlia)), basics of Blockchains, [Mininet](mininet.org/) & above all - Python AsyncIO. We started with an [existing implementation](https://github.com/chrisguidry/kademlia_aio) of the Kademlia protocol using asyncio and then modified it later to suit our needs. We couldn't finish all the sub-tasks (like Lamport Clock IDs etc.) but our presentation went pretty well.
 
-The Ludo bot was conceptually straight forward but, being the procrastinators that we are, we started really late and only had the time to implement some simple heuristic based [strategies](https://www.researchgate.net/profile/Faisal_Alvi/publication/224259871_Complexity_analysis_and_playing_strategies_for_Ludo_and_its_variant_race_games/links/558f6d7a08ae47a3490d9d72/Complexity-analysis-and-playing-strategies-for-Ludo-and-its-variant-race-games.pdf) which turned out to be weak against other bots. The game board was drawn using PyQt's GraphicsView API and involved lots of manual positioning and hair-pulling. 
+The Ludo bot was conceptually straight forward but, being the procrastinators that we are, we started really late and only had the time to implement some simple heuristic based [strategies](https://www.researchgate.net/profile/Faisal_Alvi/publication/224259871_Complexity_analysis_and_playing_strategies_for_Ludo_and_its_variant_race_games/links/558f6d7a08ae47a3490d9d72/Complexity-analysis-and-playing-strategies-for-Ludo-and-its-variant-race-games.pdf) which turned out to be weak against other bots. The game board was drawn using PyQt's GraphicsView API and involved lots of manual positioning and hair-pulling.
 
 Data Analytics was another project where we learnt a lot mostly because we'd never done something like it before. We decided to use the GitHub dataset mostly because we knew what the dataset would contain (or atleast we thought we did.) We were given a cluster of 4 virtual machines on IIT D's local cloud, a total of 320 GB HDD and 20 GB RAM. Setting up Hadoop & Spark on the cluster took most of our time but once the setup was done, the rest was easy, we just used a JupyterLab notebook to run Spark queries. I have a lot more to say on this, so I might do a separate blog post. Stay tuned!
 
@@ -66,7 +66,7 @@ The TA work is paid so I've been getting ₹12,000 on every 1st of the month, in
 
 ## Notes
 
-Harish makes really good notes and with the help of CamScanner I converted them to PDFs. [Here they are](https://drive.google.com/drive/folders/1BsWuAbrOppKATdcxeuCjkiplDPTmSy_1?usp=sharing). 
+Harish makes really good notes and with the help of CamScanner I converted them to PDFs. [Here they are](https://drive.google.com/drive/folders/1BsWuAbrOppKATdcxeuCjkiplDPTmSy_1?usp=sharing).
 
 ## Result & Future
 
