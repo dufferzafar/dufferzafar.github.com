@@ -26,14 +26,18 @@ Alan Turing and Aaron Swartz were brilliant men who wanted to make the world bet
 
 It took the British government more than 50 years to apologize for how they treated Turing. The apology finally came in 2013 - the year that Swartz died. 
 
-It's closed-loop links like these that remind me of the following by Irshad Kamil:
+It's closed-loop stories like these that remind me of the following by Irshad Kamil:
 
 तिरकिट ताल से लो चली कहानी
+
 पनघट काल से लो चली कहानी
+
 अनगिन साल से है वही पुरानी
+
 तेरे-मेरे इश्क़ की ये नई कहानी
 
-वासुदेवा ने कान्हा को जमुना से पार 
+वासुदेव ने कान्हा को जमुना से पार लंघाया 
+
 दरिया से फ़िरऔन की बहना ने मूसा उठाया
 
 ## post
