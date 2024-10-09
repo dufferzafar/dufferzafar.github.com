@@ -8,93 +8,52 @@ draft: false
 
 ![Turing & Swartz on the Great Dome](/images/turing-swartz.webp)
 
+<!-- 
 ## tl;dr
 
 MIT should apologize for their "neutral" stance on the Aaron Swartz murder. 
 
 I was just telling [Shivam](https://trigonaminima.github.io/) that if I ever have a son, I'll name him "Arun Swatantra", push him to go study at MIT just so he can deface the [great dome](https://dome.mit.edu/) with a compass - "टूरिंग स्वार्ट्ज़ सिटिंग ऑन ए ट्री… K. I. S. S. I. N. G." 
 
-<!-- My daughter will have better things to do than chase silly revenges. -->
+My daughter will have better things to do than chase silly revenges.
 
 Also, why do [good books](https://www.hup.harvard.edu/books/9780674245976) cost so much?
+-->
 
-## hindi
+## intro
 
-_एलन टूरिंग_ और _आरोन स्वार्ट्ज़_ की कहानियों में बहुत सी समानताएँ हैं, भले ही ये दो व्यक्ति अलग-अलग युग और क्षेत्रों से आते हैं। दोनों का जीवन वैज्ञानिक, तकनीकी, और नैतिक मूल्यों के प्रति समर्पित था, और दोनों का समाज द्वारा अनुचित तरीके से दमन किया गया। इनकी दुखद मृत्यु ने दुनिया में नैतिक और कानूनी सुधार की मांग को बढ़ावा दिया। आइए, हम इनकी कहानियों को जोड़कर देखें।
+Alan Turing and Aaron Swartz were brilliant men who wanted to make the world better through their work. Despite their contributions, both faced unfair treatment from their governments which ultimately led to their tragic deaths (by suicide).
 
-**समानताएँ**:
+It took the British government more than 50 years to apologize for how they treated Turing. The apology finally came in 2013 - the year that Swartz died. 
 
-1. उच्च नैतिक उद्देश्य के लिए दंडित किया जाना
+It's closed-loop links like these that remind me of the following by Irshad Kamil:
 
-    _एलन टूरिंग_: टूरिंग ने द्वितीय विश्व युद्ध के दौरान जर्मन एनिग्मा कोड को तोड़कर लाखों लोगों की जान बचाई और युद्ध को जल्दी समाप्त करने में महत्वपूर्ण भूमिका निभाई। इसके बावजूद, उन्हें समलैंगिकता के कारण "अश्लील आचरण" के लिए दोषी ठहराया गया, जो उस समय ब्रिटेन में एक अपराध था। उन्हें जबरन रासायनिक बंध्याकरण की सजा दी गई, जिसके परिणामस्वरूप उनकी मृत्यु हो गई।
+तिरकिट ताल से लो चली कहानी
+पनघट काल से लो चली कहानी
+अनगिन साल से है वही पुरानी
+तेरे-मेरे इश्क़ की ये नई कहानी
 
-    _आरोन स्वार्ट्ज़_: स्वार्ट्ज़ एक इंटरनेट एक्टिविस्ट थे जो सूचना की स्वतंत्रता में विश्वास रखते थे। उन्होंने एम आई टी के नेटवर्क से लाखों अकादमिक लेख डाउनलोड किए, यह सोचकर कि सार्वजनिक रूप से वित्तीय मदद पाता हुआ शोध सभी के लिए उपलब्ध होना चाहिए। उनकी यह कार्रवाई गैरकानूनी थी, और इसके लिए उन्हें भारी मुकदमों का सामना करना पड़ा, जिनमें संभावित 35 साल की सजा शामिल थी।
+वासुदेवा ने कान्हा को जमुना से पार 
+दरिया से फ़िरऔन की बहना ने मूसा उठाया
 
-दोनों ही मामलों में, टूरिंग और स्वार्ट्ज़ को उस समाज के नियमों का उल्लंघन करने के लिए दंडित किया गया, जिन्हें वे नैतिक रूप से अन्यायपूर्ण मानते थे।
+## post
 
-2. समाज की असफलता: उनके योगदान की अनदेखी
+Turing started off as a mathematician/cryptographer - during World War II he played a key role in cracking the German Enigma code, which helped save countless lives and shorten the war. Turing then worked in a field which is now known as "computer science" - his 1950 paper on "The Imitation Game" or "Turing Test" is one of the seminal pieces work in modern computing. However, in 1952, he was convicted of “gross indecency” because he was gay, which was illegal in the UK at the time. He was forced to undergo chemical castration as punishment and tragically died by suicide in 1954. He was 41.
 
-    टूरिंग: उनकी कोड तोड़ने की क्षमता ने लाखों लोगों की जान बचाई, और उनके काम ने आधुनिक कंप्यूटर विज्ञान की नींव रखी। इसके बावजूद, ब्रिटिश सरकार ने उनके अद्वितीय योगदान को अनदेखा करते हुए केवल उनकी व्यक्तिगत ज़िंदगी के कारण उन्हें दंडित किया।
+Swartz on the other hand was a young programmer and activist in the United States. He co-created Markdown (with Gruber), co-created RSS (a format to share web content like this blog) and was one of the co-founders of Reddit. Aaron believed in open access to information and fought to make research papers, especially those paid for by public money, freely available to everyone. In 2010-2011, he downloaded millions of articles from a major publisher's database using MIT’s network. While the publisher did not press charges, the U.S. government prosecuted him, threatening him with up to 35 years in prison. Aaron, overwhelmed by the legal battle, took his own life in 2013 at the age of 26.
 
-    स्वार्ट्ज़: स्वार्ट्ज़ ने इंटरनेट के बुनियादी ढांचे को बनाने में मदद की, RSS फीड का सह-निर्माण किया और Reddit की स्थापना की। उनका उद्देश्य सूचना और ज्ञान को लोकतांत्रिक बनाना था, लेकिन सरकार ने उनके इस उद्देश्य को समझने के बजाय उन्हें कानूनों के उल्लंघन के लिए सजा देने पर ध्यान केंद्रित किया।
+Both Turing and Swartz were driven by ethical beliefs. Turing didn’t choose to be gay, but he lived his life honestly despite the laws of the time. Swartz believed that information, especially research paid for with public funds, should be free for everyone to access. Neither of them intended to harm others; instead, they wanted to make the world more open and just. But both were punished for violating rules or laws that didn’t align with their values.
 
-दोनों मामलों में, उनके योगदान को नजरअंदाज कर दिया गया, और कानून का कठोर प्रयोग उनके प्रति अन्यायपूर्ण साबित हुआ।
+Despite Turing’s enormous contributions to the war effort and modern technology, the British government focused on his personal life, which they deemed illegal, rather than celebrating his achievements. Similarly, the U.S. government focused on Swartz’s method of downloading articles instead of recognizing his passion for open access and the good it could bring.
 
-3. असमान सजा और उसका परिणाम
+Turing was forced to undergo chemical castration, a humiliating and inhumane punishment for simply being gay, which led to his suicide. Swartz, facing decades in prison and heavy fines for his non-violent actions, was under immense pressure, which also contributed to his act. In both cases, the punishments were extreme and did not fit the nature of their actions.
 
-    टूरिंग को रासायनिक बंध्याकरण की सजा दी गई, जो न केवल उनकी शारीरिक और मानसिक स्थिति को बिगाड़ने वाली थी, बल्कि उनकी आत्महत्या का भी कारण बनी।
+After their deaths, both Turing and Swartz have become symbols of unjust treatment. Turing was posthumously pardoned by the British government in 2013, and today he is widely celebrated as a hero of both World War II and computer science. The nobel equivalent in the field of Computer Science is named after him - the Turing Award. Swartz’s case sparked a movement to reform digital laws, especially the Computer Fraud and Abuse Act (CFAA), which many believe gives the US government too much power to harshly punish people for online activities. Similar laws have since been passed in all countries of the world so our fight against injustice like this only gets harder from here.
 
-    स्वार्ट्ज़ पर डिजिटल युग के कानूनों का कठोर प्रयोग हुआ, जिससे उन्हें अत्यधिक मानसिक तनाव का सामना करना पड़ा, जो उनकी आत्महत्या का महत्वपूर्ण कारण बना।
+## outro
 
-दोनों के साथ कानूनी रूप से कठोर व्यवहार किया गया, जिससे उनका जीवन समय से पहले समाप्त हो गया। सजा उनके कार्यों के मुकाबले कहीं अधिक कठोर थी।
+MIT played a key role in Swartz’s case because he used their network to download the JSTOR articles. While JSTOR decided not to pursue charges, MIT remained neutral and did not take steps to support Swartz or ease the legal pressure on him. If MIT had been more vocal or involved, the outcome could have been different. By apologizing, MIT would admit that its "neutrality" in Swartz’s case was a mistake. While MIT acted within legal boundaries, they could have done more to protect a young kid whose work aligned with MIT’s own values of knowledge-sharing. Swartz’s fight for open access is now a global movement, and many academic institutions, including MIT, have since taken steps to make research more accessible to the public. An apology would signal MIT’s recognition of Swartz’s vision and his contribution to this cause.
 
-4. मरणोपरांत मान्यता और सुधार की मांग
+Laws and societal norms are not static; they evolve over time as people challenge what is considered acceptable or just. Turing was persecuted for being gay at a time when homosexuality was seen as immoral and illegal, but today, many countries recognize LGBTQ+ rights, and Turing is celebrated as a hero. Similarly, Swartz was prosecuted for downloading academic papers in violation of the law, but his actions were driven by the belief that knowledge should be free for all. Just as views on homosexuality changed over time, the criminalization of Swartz's actions may also be reexamined in the future. Laws only change when people push for what they believe in, and today there is a growing demand for open access to knowledge and the embrace of open-source principles in all areas of society. This movement reflects a belief that the free exchange of information is not only ethical but necessary for innovation and progress.
 
-    टूरिंग को 2013 में ब्रिटेन द्वारा मरणोपरांत माफी दी गई, और उन्हें आज कंप्यूटर विज्ञान के जनक के रूप में सम्मानित किया जाता है। उनके मामले ने सामाजिक और कानूनी सुधार की आवश्यकता पर प्रकाश डाला, खासकर एलजीबीटी अधिकारों के संदर्भ में।
-
-    स्वार्ट्ज़ की मृत्यु के बाद, डिजिटल अधिकार और इंटरनेट कानूनों के सुधार के लिए एक व्यापक अभियान चला। उनका मामला आज भी डिजिटल युग में कानूनी व्यवस्था और स्वतंत्रता के अधिकार पर बहस का केंद्र बना हुआ है।
-
-**निष्कर्ष**:
-
-दोनों की मौत के बाद उनके जीवन और काम को समझने और उनके द्वारा उठाए गए मुद्दों पर ध्यान देने की एक नई लहर आई, जिसने कानून और नैतिकता के बीच के संबंध पर गंभीर सवाल उठाए।
-
-एलन टूरिंग और आरोन स्वार्ट्ज़ दोनों ही उस व्यवस्था के खिलाफ लड़े, जिसे वे नैतिक रूप से अन्यायपूर्ण मानते थे। दोनों को समाज ने उनकी असाधारण क्षमताओं और उनके द्वारा किए गए महान योगदान के बावजूद दंडित किया, और उनकी मृत्यु ने दुनिया भर में कानूनी और नैतिक सुधार की मांग को जन्म दिया।
-
-## english
-
-The cases of Aaron Swartz and Alan Turing, though separated by decades and occurring in vastly different contexts, share significant similarities in terms of the ethical questions they raise about how society treats individuals who challenge established systems and laws for the greater good. Both men were brilliant thinkers whose lives were tragically cut short, and both were prosecuted for actions that many later viewed as unjust and disproportionate.
-
-Key Similarities:
-
-1. Persecution for Ethical Beliefs and Actions
-
-    _Alan Turing_: Turing's crime in the eyes of British law was his homosexuality, a criminal offense at the time. Despite his crucial contributions during World War II, particularly in cracking the Enigma code, his "indecency" conviction led to chemical castration, social ostracism, and likely contributed to his suicide. Turing's case highlights how the legal system can be used to punish individuals whose personal lives or actions deviate from societal norms, even if those actions have no direct harm to others.
-
-    _Aaron Swartz_: Swartz's belief in the free and open sharing of knowledge was central to his case. He was prosecuted under the Computer Fraud and Abuse Act (CFAA) for downloading millions of academic articles from JSTOR, driven by his view that information, especially publicly funded academic research, should be freely accessible to all. Though no harm was intended or caused, the U.S. government pursued severe charges, potentially resulting in decades of imprisonment. Like Turing, Swartz was persecuted for actions that were non-violent and arguably morally driven, yet they were deemed criminal by the state.
-
-In both cases, the state prosecuted men whose actions were motivated by ethical convictions rather than malice. Each pushed against a system they viewed as unjust—Turing against societal norms and Swartz against information barriers—only to face tragic consequences.
-
-2. Failure to Acknowledge the Greater Good
-
-    Turing saved countless lives by shortening World War II through his code-breaking work. His contributions to mathematics and early computer science laid the foundation for much of modern technology. Yet, the British government ignored his monumental achievements when prosecuting him for his sexuality.
-    Swartz contributed to the creation of fundamental internet technologies, co-authored the RSS specification, and was a co-founder of Reddit. His activism aimed to democratize access to knowledge, empowering people through information. Yet, the U.S. government ignored the larger societal benefit of his vision and focused instead on his violation of restrictive laws around digital access.
-
-Both cases reflect a failure of legal systems to balance the individual's positive contributions with their perceived "crimes." The prosecution in both instances overlooked the broader good that these individuals had done, focusing instead on legalistic infractions that ultimately brought about personal ruin.
-
-3. Disproportionate Punishment
-
-    Turing was subjected to inhumane treatment—chemical castration—that disregarded his humanity and well-being, leading to his premature death at 41. His treatment was brutal and disproportionate to the supposed "crime" of being gay.
-    Swartz, similarly, faced the possibility of decades in prison and massive fines for what amounted to a non-violent digital action motivated by a belief in open access. The weight of the prosecution contributed to Swartz's mental health struggles, and he died by suicide at age 26 before the trial could begin.
-
-In both instances, the punishments were disproportionate to the acts committed, contributing to their untimely deaths. The harsh legal responses were driven by rigid adherence to laws that failed to take into account the broader ethical dimensions or the intent behind the actions.
-
-4. Posthumous Recognition and Calls for Justice Reform
-
-    Turing was posthumously pardoned by the British government in 2013, long after his death, and has been publicly celebrated as a hero and a pioneer in computing. However, the pardon came too late to offer him justice or to mitigate the suffering he endured in life.
-    Swartz's death sparked widespread calls for reform in U.S. digital laws, particularly the CFAA, which critics argue is outdated and imposes draconian punishments for non-violent, digital-era crimes. His legacy lives on through efforts to change the legal framework that contributed to his prosecution.
-
-Both men became symbols of the need for reform after their deaths. Turing's case highlighted the injustices of laws criminalizing homosexuality, leading to gradual legal and societal change. Swartz's case continues to serve as a rallying cry for digital rights and the reform of overreaching internet laws.
-
-**Conclusion:**
-
-In both the cases of Alan Turing and Aaron Swartz, brilliant individuals who contributed to humanity's progress were subjected to harsh legal punishments by institutions that prioritized strict adherence to law over considerations of justice, ethics, and proportionality. Both men were persecuted for actions that today are seen by many as driven by higher moral purposes—Turing for being himself in a time of societal repression, and Swartz for trying to open access to information in a world of digital restrictions. Their tragic fates reveal the dangers of rigid legalism and raise enduring questions about how societies balance law, ethics, and the greater good.
+See my [last post](http://dufferzafar.com/2024/08/24/silos-and-fragility/) on what happens when an organization goes against the open-source ethos.
