@@ -1,7 +1,7 @@
 ---
 title: Fragile Silos
 date: 2024-08-24 05:56:27
-draft: false
+draft: true
 ---
 
 <!-- Nasheman maine kayi banakar tod daale hain -->
