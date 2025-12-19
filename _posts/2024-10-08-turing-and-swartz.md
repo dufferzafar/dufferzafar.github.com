@@ -4,21 +4,17 @@ date: 2024-10-08 18:06:27
 draft: false
 ---
 
-<!-- Ye urooj hai ya zawal hai, yehi sawal hai -->
-
 ![Turing & Swartz on the Great Dome](/images/turing-swartz.webp)
 
-<!-- 
 ## tl;dr
 
 MIT should apologize for their "neutral" stance on the Aaron Swartz murder. 
 
-I was just telling [Shivam](https://trigonaminima.github.io/) that if I ever have a son, I'll name him "Arun Swatantra", push him to go study at MIT just so he can deface the [great dome](https://dome.mit.edu/) with a compass - "टूरिंग स्वार्ट्ज़ सिटिंग ऑन ए ट्री… K. I. S. S. I. N. G." 
+I was just telling [Shivam](https://trigonaminima.github.io/) that if I ever have a son, 
+I'll name him "Arun Swatantra", push him to go study at MIT just so he can deface the [great dome](https://dome.mit.edu/) with a compass
+"टूरिंग स्वार्ट्ज़ सिटिंग ऑन ए ट्री… K. I. S. S. I. N. G." 
 
-My daughter will have better things to do than chase silly revenges.
-
-Also, why do [good books](https://www.hup.harvard.edu/books/9780674245976) cost so much?
--->
+My daughter will perhaps have better things to do than chase silly revenges.
 
 ## intro
 
@@ -27,14 +23,6 @@ Alan Turing and Aaron Swartz were brilliant men who wanted to make the world bet
 It took the British government more than 50 years to apologize for how they treated Turing. The apology finally came in 2013 - the year that Swartz died. 
 
 It's closed-loop stories like these that remind me of the following by Irshad Kamil:
-
-तिरकिट ताल से लो चली कहानी
-
-पनघट काल से लो चली कहानी
-
-अनगिन साल से है वही पुरानी
-
-तेरे-मेरे इश्क़ की ये नई कहानी
 
 वासुदेव ने कान्हा को जमुना से पार लंघाया 
 
