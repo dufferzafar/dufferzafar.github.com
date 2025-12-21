@@ -1,7 +1,6 @@
 ---
 title: Fragile Silos
 date: 2024-08-24 05:56:27
-draft: true
 ---
 
 <!-- Nasheman maine kayi banakar tod daale hain -->
@@ -10,118 +9,25 @@ draft: true
 
 ## tl;dr
 
-Technological and knowledge silos can make an organization exceptionally "fragile" as defined by Taleb’s Incerto
+Technological and knowledge silos can make an organization exceptionally "fragile" as defined by Taleb's [Incerto](https://en.wikipedia.org/wiki/Incerto)
 
 By isolating knowledge, limiting communication & creating rigid structures - silos make organizations more susceptible to shocks and less capable of adapting to change.
 
 Over time, this fragility can lead to systemic failures, particularly in the face of unexpected challenges.
 
-To build resilience - on the road to the holy grail of anti-fragility - organizations need to: 
+To build resilience - on the road to the holy grail of [anti-fragility](https://en.wikipedia.org/wiki/Antifragility) - organizations need to: 
 * Break silos
 * Promote collaboration
 * Foster adaptation
 
-## definitions
-
-Organizational Fragility - susceptibility of an org to experience significant disruption when exposed to stress/shocks/volatility/uncertainty
-
-Knowledge/Information Silos - expertise is confined within specific teams or individuals preventing free flow of knowledge across the org
-
-Technological Silos - different departments adopt/develop their stacks/tools/systems; incentive structures then lead to protection of the silo, “in-group lead to out-groups”
-Thesis
-
 ---
 
-What is the impact of these silos on an organization's fragility?
-
----
-
-Increased Sensitivity to Shocks
-
-Single Points of Failure
-Silos create isolated knowledge / technology systems
-Critical information or functionality resides only within one silo
-Organization vulnerable if/when silo is disrupted
-
-Key Man Risks
-Extreme case when bus factor is exactly 1
-
-Lack of Redundancy
-"fragile systems lack buffers or flexibility to absorb shocks"
-If one silo fails, no backup/alternative in place
-
-Reduced Ability to Adapt
-
-
-Rigidity
-"fragile systems are rigid and cannot adapt to change"
-Silos create rigidity by locking teams into specific ways of working/thinking
-Reduces the ability to pivot/respond to challenges
-Flow of information and resources is not actively promoted
-
-Delayed Decision-Making
-Consolidating bits/pieces from different teams adds delays
-Delay can exacerbate fragility by preventing timely responses to emerging risks are there just delays or “worse” DM?
-
-Negative Feedback Loops
-
-Amplification of Errors
-"small problems in fragile systems can escalate into larger crises"
-silos prevent cross-functional communication
-errors in one part of the org may go unnoticed or uncorrected, leading to cascading failures
-
-
-Lack of Shared Understanding
-silos lead to misaligned objectives/priorities
-no shared understanding of risks or opportunities
-misalignment creates conflicts/inefficiencies that compound!
-
-
-## incentive structure
-
-* TS
-    * in-groups?
-    * avoid "outside" tech?
-    * bring something totally new?
-
-## hope
-
-* towards anti-fragility
-
-* Missed Opportunities for Anti-fragility
-
-    * Inhibition of Learning and Innovation
-        * Antifragile systems benefit from stressors and learn from failures. In a siloed organization, the lack of shared knowledge and collaboration inhibits learning and innovation. This prevents the organization from becoming antifragile, as it cannot collectively learn from mistakes or capitalize on new opportunities.
-    Stifled Experimentation: In antifragile systems, experimentation and trial-and-error are essential for growth. Silos often discourage experimentation by creating barriers to cross-functional collaboration and by fostering a culture of risk aversion, further entrenching fragility
-
-## sources
-
-* first hand experience
-
-* theoretical underpinnings - [incerto series](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb#Incerto_series)
-    * philosophical essays on uncertainty - five book bundle
-    * fooled by randomness
-    * black swan
-    * bed of procrustes
-    * antifragile
-    * skin in the game
-
-
-<!-- 
-In today's rapidly changing world, businesses face a multitude of unpredictable challenges. Understanding how to build organizations that can withstand uncertainty is more important than ever. Two influential thinkers, Nassim Nicholas Taleb and Ray Dalio, offer valuable perspectives on how companies can reduce fragility and enhance resilience.  
--->
-
-<!-- What if an organization were rotting from inside -->
-
-<!-- What does an organization rotting from inside look like -->
-
-In this post we meet two wall street traders 
-
+In this post we meet two wall street traders.
 
 ## act i - setup
 
-Nassim Nicholas Taleb is a wall street trader known for 
-his work on randomness, probability, and uncertainty. Born in Lebanon, Taleb has a rich background in finance and mathematics, which he leverages to explore how unforeseen events impact societies and economies. His books - "The Black Swan" and "Antifragile" delve into the nature of rare, unpredictable events and how systems can either succumb to or thrive amidst chaos.
+[Nassim Nicholas Taleb](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb) is a wall street trader known for 
+his work on randomness, probability, and uncertainty. Born in Lebanon, Taleb has a rich background in finance and mathematics, which he leverages to explore how unforeseen events impact societies and economies. His books - "[The Black Swan](https://en.wikipedia.org/wiki/The_Black_Swan:_The_Impact_of_the_Highly_Improbable)" and "[Antifragile](https://en.wikipedia.org/wiki/Antifragile_(book))" delve into the nature of rare, unpredictable events and how systems can either succumb to or thrive amidst chaos.
 
 Taleb introduces the concept of "fragility" to describe systems that are vulnerable to shocks and stressors. A fragile system is one that breaks or suffers significant harm when faced with unexpected events. In contrast, robust systems can withstand shocks without changing, and antifragile systems actually grow stronger from disorder and challenges. 
 
@@ -149,7 +55,7 @@ Furthermore, silos increase the risk of key person dependency. If specialized kn
 
 ## act iii - resolution
 
-Ray Dalio founded Bridgewater Associates - now one of the largest hedge funds in the world. Dalio attributes much of his company's success to a culture of radical transparency and radical truthfulness. In his book "Principles" he outlines the management philosophies that have guided Bridgewater, emphasizing openness, honesty, and a relentless pursuit of understanding reality.
+[Ray Dalio](https://en.wikipedia.org/wiki/Ray_Dalio) founded [Bridgewater Associates](https://en.wikipedia.org/wiki/Bridgewater_Associates) - now one of the largest hedge funds in the world. Dalio attributes much of his company's success to a culture of [radical transparency](https://en.wikipedia.org/wiki/Radical_transparency) and radical truthfulness. In his book "[Principles](https://en.wikipedia.org/wiki/Principles_(book))" he outlines the management philosophies that have guided Bridgewater, emphasizing openness, honesty, and a relentless pursuit of understanding reality.
 
 Dalio believes that by creating an environment where everyone feels free to express their thoughts and where information is openly shared, organizations can make better decisions and become more resilient. This approach challenges traditional hierarchical structures and promotes a culture where feedback is encouraged, and mistakes are seen as opportunities for learning. 
 
