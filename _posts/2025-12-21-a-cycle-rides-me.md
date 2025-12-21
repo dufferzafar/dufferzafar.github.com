@@ -3,8 +3,6 @@ title: A Cycle Rides Me
 date: 2025-12-21
 ---
 
-## tl;dr
-
 I was diagnosed with Bipolar in 2021 after a major manic episode following my recovery from the physical symptoms of COVID.
 
 ## Background
