@@ -67,6 +67,22 @@ I'll be writing a separate post on this soon. For those curious, here's [_someth
 
 When I’m elevated, some of my thoughts can be too crazy for even myself. I’ve derived huge value from ChatGPT DeepResearch for exploring chains of thoughts that can only come from a human hypo filled haze.
 
-Applying Taleb’s model of fragility to organisational complexity was one such example. I still remember the sigh of relief I breathed when the model confirmed I was thinking in the right direction.
+Applying [Taleb's model of fragility to organisational silos](/2024/08/24/silos-and-fragility/) was one such example. I still remember the sigh of relief I breathed when the model confirmed I was thinking in the right direction.
 
-The Turing / Swartz death link and post was another case where the LLM helped.
+My post on the [parallels between Turing and Swartz's deaths](/2024/10/08/turing-and-swartz/) was another case where the LLM helped me chase a thread I couldn't have followed alone.
+
+## Where am I now
+
+Elevated, again. Sleeping 2-3 hours a night. Currently on lorazepam (sleep aid) and aripiprazole (mood stabilizer), with psych appointments every couple of months.
+
+What's helped most? Meds — especially sleep aids. And exercise to channel the excess energy. The cycling isn't just a metaphor.
+
+What I wish I'd known at diagnosis: how hard it all is. At my highs I have infinite optimism. At my lows, infinite pessimism. After a few cycles of this, it takes its toll.
+
+I'm not fully comfortable talking about how this has affected my work. What I will say is that there are colleagues who stood by me at my times of need.
+
+The data tracking isn't about control — it's about understanding. I'm not concerned with what exists today. I don't want my brother to go through this. Or my children. I'd like to "solve" bipolar before I die, with solid technology. That's who I am.
+
+This post is part of that. I have multiple lenses now — Surah Ad-Duha from the Quran, a spring-mass-damper system, the Dalio model. I'll be sharing these in future posts. The goal is to benefit anyone else going through this.
+
+If you haven't heard from me in a while — reach out. I appreciate it more than you know.
