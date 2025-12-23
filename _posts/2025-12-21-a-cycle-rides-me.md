@@ -19,6 +19,10 @@ I wrote these lines some time back:
 
 _(Some friends have found me / like a vase finds its rose.)_
 
+I also owe apologies. To people I've hurt - with words, with actions, with silence. Some of it was the disorder talking. Some of it was just me. The line between the two isn't always clear, and I'm not using bipolar as an excuse.
+
+If you're reading this and I've wronged you - intentionally or not - I'm sorry. I'm working on it. I can't promise I won't slip again, but I can promise I'm more aware now than I was before.
+
 ## Why I'm sharing this now
 
 For 4 years I've mentioned "health stuff" to colleagues and acquaintances without naming it. That ambiguity felt protective but also isolating. I'm tired of the cognitive load of half-truths.
