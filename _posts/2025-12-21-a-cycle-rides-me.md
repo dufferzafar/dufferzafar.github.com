@@ -71,9 +71,9 @@ Early morning rides became my cheapest mood regulator: 20 km before sunrise rese
 
 For me specifically:
 
-**Hypomania** looks like: sleeping 2 hours and feeling invincible, non stop poetry writing, starting 5 side-projects, talking too fast.
+**Hypomania** looks like: sleeping 2 hours and feeling invincible, non stop poetry writing, starting 5 side-projects, talking too fast. Praying namaz 5 times a day, trusting the Almighty for all He is doing and will do.
 
-**Depression** looks like: 14-hour sleep, unanswered messages, code that feels pointless, even basics like a bath starts to feel like a chore.
+**Depression** looks like: 14-hour sleep, unanswered messages, code that feels pointless, even basics like a bath starts to feel like a chore. And losing faith — not just in myself, but in God too. Hope leaves, and prayer leaves with it.
 
 ## Modelling the cycle
 
