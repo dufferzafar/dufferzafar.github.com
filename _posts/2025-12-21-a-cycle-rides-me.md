@@ -23,6 +23,26 @@ I also owe apologies. To people I've hurt - with words, with actions, with silen
 
 If you're reading this and I've wronged you - intentionally or not - I'm sorry. I'm working on it. I can't promise I won't slip again, but I can promise I'm more aware now than I was before.
 
+<!-- 
+To my girlfriend of 7 years — it's been complicated. The lows are probably hardest for her: I disconnect, my pessimism takes over, I start detaching. The highs bring their own pain — endless discussions, false hopes.
+
+She's been of immense help. She has her own demons and understands mine. We're not broken up. And I intend to marry her — this is not just the mania talking. Or is it?
+
+## It runs in the family
+
+My father was probably bipolar too. And his mother — my dadi — was somewhere on the spectrum. Both took treatment from IHBAS Delhi.
+
+I always knew it was coming for me.
+
+My parents separated when I was 11. My father was abusive towards my mother. I have some images from that time that are still imprinted in my brain — PTSD that I've had to work through separately.
+
+He passed away in 2015, when I was 22. We'd cut all contact by then. Funnily enough, I sometimes miss him and cry. What a waste of tears? Not really though. Part of me still loves him.
+
+Bipolar has a high genetic component. So does psoriasis — another disorder I've been managing since 2014. I take phototherapy sessions at GTB Hospital, which happens to be right next to IHBAS. Two generations, two hospitals, side by side.
+
+Both conditions are part of why I want to "solve" this before I die. For my brother. For my future children. So the cycle — the real one — can end. 
+-->
+
 ## Why I'm sharing this now
 
 For 4 years I've mentioned "health stuff" to colleagues and acquaintances without naming it. That ambiguity felt protective but also isolating. I'm tired of the cognitive load of half-truths.
