@@ -67,7 +67,9 @@ That's when you'll know. Not because someone convinced you. Because you'll feel 
 
 Now, here's where I disagree with Iqbal.
 
-He ends the poem saying he served the world its "last cup" - meaning Islam. The final revelation. I get it. He was writing in 1908, reasserting Muslim identity against colonial erasure. But I can't sign that line.
+He ends the poem saying he served the world its "last cup" - meaning Islam. The final revelation.[^seal] I get it. He was writing in 1908, reasserting Muslim identity against colonial erasure. But I can't sign that line.
+
+[^seal]: The [Six Kalmas](https://en.wikipedia.org/wiki/Six_Kalmas) don't actually say Muhammad is the "last" messenger - just "His messenger." The finality doctrine comes from "Khatam an-Nabiyyin" (Seal of the Prophets) in Quran 33:40. But "seal" is interpretable - Ibn Arabi's [*Khatam al-Awliya*](https://en.wikipedia.org/wiki/Khatim_al-Awliya') tradition reads it as "authenticator" or "perfecter." Prophethood may be sealed, but guidance through saints (*awliya*), teachers (*murshid*), and poets continues.
 
 The mystics kept seeking after that "last cup." The Sufis flowed into the Bhakti saints, into Kabir, into Nanak.[^sikhism] The seeking didn't stop. Now, I could be wrong - I don't know enough about these threads to pull at them properly. But here's what I do know: every message feels final to its believers. And yet:
 
