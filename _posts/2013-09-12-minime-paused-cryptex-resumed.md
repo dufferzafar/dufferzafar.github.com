@@ -1,4 +1,5 @@
 ---
+redirect_from: /2013/09/12/minime-paused-cryptex-resumed/
 layout: post
 title: "miniMe Paused - Cryptex Resumed"
 date: 2013-09-12 09:51

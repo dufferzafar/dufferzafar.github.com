@@ -1,4 +1,5 @@
 ---
+redirect_from: /2019/03/01/third-semester-at-iit-delhi/
 layout: post
 title: Third Semester at IIT Delhi
 draft: true

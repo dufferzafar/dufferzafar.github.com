@@ -1,4 +1,5 @@
 ---
+redirect_from: /2013/08/03/everything-by-me-is-unlicensed/
 layout: post
 title: "Everything by me is unlicensed"
 date: 2013-08-03 15:55

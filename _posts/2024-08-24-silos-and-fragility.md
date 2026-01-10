@@ -1,4 +1,5 @@
 ---
+redirect_from: /2024/08/24/silos-and-fragility/
 title: Fragile Silos
 date: 2024-08-24 05:56:27
 ---

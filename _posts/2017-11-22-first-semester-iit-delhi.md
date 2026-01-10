@@ -1,4 +1,5 @@
 ---
+redirect_from: /2017/11/22/first-semester-iit-delhi/
 layout: post
 title:  First Semester at IIT Delhi
 date:   2017-12-01 23:17:47

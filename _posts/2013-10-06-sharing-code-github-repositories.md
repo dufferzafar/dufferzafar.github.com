@@ -1,4 +1,5 @@
 ---
+redirect_from: /2013/10/06/sharing-code-github-repositories/
 layout: post
 title: "Sharing Code - Github repositories"
 date: 2013-09-29 18:08

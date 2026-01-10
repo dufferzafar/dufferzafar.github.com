@@ -1,4 +1,5 @@
 ---
+redirect_from: /2015/06/14/how-i-listed-ids-of-all-my-facebook-friends/
 layout: post
 title: "How I listed IDs of all my facebook friends"
 date: 2015-06-14 00:40:40 +0530

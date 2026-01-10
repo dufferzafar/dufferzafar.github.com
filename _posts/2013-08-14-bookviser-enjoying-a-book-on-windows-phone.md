@@ -1,4 +1,5 @@
 ---
+redirect_from: /2013/08/14/bookviser-enjoying-a-book-on-windows-phone/
 layout: post
 title: "Bookviser: Enjoying a book on windows phone"
 date: 2013-08-14 23:42

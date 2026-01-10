@@ -1,4 +1,5 @@
 ---
+redirect_from: /2013/11/21/long-time-no-see/
 layout: post
 title: "Long time no see!"
 date: 2013-11-21 13:03

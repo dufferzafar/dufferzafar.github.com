@@ -1,4 +1,5 @@
 ---
+redirect_from: /2013/09/28/hacking-wtf/
 layout: post
 title: "Hacking WTF!"
 date: 2013-09-28 08:56

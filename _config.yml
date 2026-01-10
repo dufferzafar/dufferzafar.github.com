@@ -8,13 +8,14 @@ description: life. philosophy. code
 
 theme: minima
 
-permalink: pretty
+permalink: /:year/:title/
 
 # highlighter: pygments
 
-gems:
+plugins:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-redirect-from
 
 exclude:
   - Gemfile

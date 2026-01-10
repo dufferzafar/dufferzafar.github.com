@@ -1,4 +1,5 @@
 ---
+redirect_from: /2024/10/08/turing-and-swartz/
 title: Turing & Swartz
 date: 2024-10-08 18:06:27
 draft: false

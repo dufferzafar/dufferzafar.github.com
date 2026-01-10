@@ -1,4 +1,5 @@
 ---
+redirect_from: /2017/03/29/a-quick-recap-of-the-last-two-years/
 layout: post
 title:  A quick recap of the last two years
 date:   2017-03-29 23:54:58 +0530

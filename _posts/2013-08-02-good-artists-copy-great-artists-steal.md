@@ -1,4 +1,5 @@
 ---
+redirect_from: /2013/08/02/good-artists-copy-great-artists-steal/
 layout: post
 title: "Good artists copy, great artists steal"
 date: 2013-08-02 15:52

@@ -1,4 +1,5 @@
 ---
+redirect_from: /2013/09/28/excerpts-from-iwoz/
 layout: post
 title: "Excerpts from iWoz"
 date: 2013-09-28 09:04

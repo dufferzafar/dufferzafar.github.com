@@ -1,7 +1,7 @@
 ---
+redirect_from: /2021/11/25/what-would-i-do-in-london/
 title: What would I do in London?
 date: 2021-11-25 12:28:21
-draft: true
 ---
 
 I recently had the privilege to evaluate what I would do if I visit London.

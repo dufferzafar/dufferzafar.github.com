@@ -1,4 +1,5 @@
 ---
+redirect_from: /2014/06/25/the-current-state-of-things/
 layout: post
 title: "The current state of things."
 date: 2014-06-25 15:14

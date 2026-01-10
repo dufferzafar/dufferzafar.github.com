@@ -1,4 +1,5 @@
 ---
+redirect_from: /2013/08/14/readability-read-without-distractions/
 layout: post
 title: "Readability: Read without distractions"
 date: 2013-08-14 22:49

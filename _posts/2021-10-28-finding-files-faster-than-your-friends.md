@@ -1,4 +1,5 @@
 ---
+redirect_from: /2021/10/28/finding-files-faster-than-your-friends/
 title: Finding files faster than your friends
 date: 2021-10-28 13:37:21
 draft: true

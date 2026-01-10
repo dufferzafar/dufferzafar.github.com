@@ -1,4 +1,5 @@
 ---
+redirect_from: /2015/06/16/fixing-mnemonic-not-found-bug-in-sublime-text/
 layout: post
 title: "Fixing mnemonic not found bug in Sublime Text"
 date: 2015-06-16 04:25:14 +0530

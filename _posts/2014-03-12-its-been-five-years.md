@@ -1,4 +1,5 @@
 ---
+redirect_from: /2014/03/12/its-been-five-years/
 layout: post
 title: "It's been five years"
 date: 2014-03-12 17:07

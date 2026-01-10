@@ -1,4 +1,5 @@
 ---
+redirect_from: /2016/06/21/is-india-great/
 title: Is India Great?
 date: 2019-06-21
 ---

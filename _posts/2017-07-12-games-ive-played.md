@@ -1,4 +1,5 @@
 ---
+redirect_from: /2017/07/12/games-ive-played/
 layout: post
 title:  "Games I've Played"
 date:   2017-07-12 13:51:01

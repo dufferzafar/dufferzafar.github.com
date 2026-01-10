@@ -1,4 +1,5 @@
 ---
+redirect_from: /2013/11/30/gaming-the-github-streak/
 layout: post
 title: "Gaming the github streak"
 date: 2013-12-21 22:54

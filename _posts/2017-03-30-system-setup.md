@@ -1,4 +1,5 @@
 ---
+redirect_from: /2017/03/30/system-setup/
 layout: post
 title:  System Setup
 date:   2017-03-30 00:53:11

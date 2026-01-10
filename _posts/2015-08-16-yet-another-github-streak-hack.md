@@ -1,4 +1,5 @@
 ---
+redirect_from: /2015/08/16/yet-another-github-streak-hack/
 layout: post
 title: "Yet Another Github Streak Hack"
 date: 2015-08-16 21:29:59 +0530

@@ -1,4 +1,5 @@
 ---
+redirect_from: /2025/12/21/a-cycle-rides-me/
 title: A Cycle Rides Me
 date: 2025-12-21
 ---
@@ -93,9 +94,9 @@ I'll be writing a separate post on this soon. For those curious, here's [_someth
 
 When I'm elevated, some of my thoughts can be too crazy for even myself. I've derived huge value from ChatGPT DeepResearch for exploring chains of thoughts that can only come from a human hypo filled haze.
 
-Applying [Taleb's model of fragility to organisational silos](/2024/08/24/silos-and-fragility/) was one such example. I still remember the sigh of relief I breathed when the model confirmed I was thinking in the right direction.
+Applying [Taleb's model of fragility to organisational silos](/2024/silos-and-fragility/) was one such example. I still remember the sigh of relief I breathed when the model confirmed I was thinking in the right direction.
 
-My post on the [parallels between Turing and Swartz's deaths](/2024/10/08/turing-and-swartz/) was another case where the LLM helped me chase a thread I couldn't have followed alone.
+My post on the [parallels between Turing and Swartz's deaths](/2024/turing-and-swartz/) was another case where the LLM helped me chase a thread I couldn't have followed alone.
 
 ## Where am I now
 

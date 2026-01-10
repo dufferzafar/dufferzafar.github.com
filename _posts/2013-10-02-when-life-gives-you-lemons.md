@@ -1,4 +1,5 @@
 ---
+redirect_from: /2013/10/02/when-life-gives-you-lemons/
 layout: post
 title: "When life gives you lemons..."
 date: 2013-10-02 10:12

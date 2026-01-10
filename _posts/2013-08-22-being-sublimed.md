@@ -1,4 +1,5 @@
 ---
+redirect_from: /2013/08/22/being-sublimed/
 layout: post
 title: "Being Sublimed!"
 date: 2013-08-22 14:36

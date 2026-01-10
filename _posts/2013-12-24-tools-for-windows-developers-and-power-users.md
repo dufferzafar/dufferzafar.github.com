@@ -1,4 +1,5 @@
 ---
+redirect_from: /2013/12/24/tools-for-windows-developers-and-power-users/
 layout: post
 title: "Tools for windows developers and power users"
 date: 2013-12-24 00:18

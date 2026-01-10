@@ -1,4 +1,5 @@
 ---
+redirect_from: /2013/08/15/source-code-editors-sublime-text-and-notepad/
 layout: post
 title: "Source Code Editors: Sublime text and Notepad++"
 date: 2013-08-15 08:39

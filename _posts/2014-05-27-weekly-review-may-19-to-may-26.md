@@ -1,4 +1,5 @@
 ---
+redirect_from: /2014/05/27/weekly-review-may-19-to-may-26/
 layout: post
 title: "Weekly review - May 19 to May 26"
 date: 2014-05-27 14:46

@@ -1,4 +1,5 @@
 ---
+redirect_from: /2013/08/06/getting-a-feel-of-minimalism/
 layout: post
 title: "Getting a feel of minimalism"
 date: 2013-08-06 16:02

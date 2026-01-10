@@ -1,4 +1,5 @@
 ---
+redirect_from: /2015/05/30/running-regex101-offline/
 layout: post
 title: "Running Regex101 Offline"
 date: 2015-05-30 03:23:19 +0530

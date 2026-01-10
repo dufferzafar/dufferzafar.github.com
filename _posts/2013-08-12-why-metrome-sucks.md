@@ -1,4 +1,5 @@
 ---
+redirect_from: /2013/08/12/why-metrome-sucks/
 layout: post
 title: "Why metroMe sucks?"
 date: 2013-08-12 16:06 +0530

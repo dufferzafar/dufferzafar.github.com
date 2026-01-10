@@ -1,4 +1,5 @@
 ---
+redirect_from: /2026/01/02/khud-kalami/
 title: "Khud Kalami"
 date: 2026-01-02
 ---
@@ -181,7 +182,7 @@ We're all sons and daughters of Adam. We serve one Lord. By different names, thr
 
 You'll get here, 2012 me. It'll take a decade and a half. A girl named glitter. A metro station poem. A Nusrat qawwali you finally stop lying about. A diagnosis that made faith feel like weather.[^5]
 
-[^5]: I wrote about bipolar and faith [here](/2025/12/21/a-cycle-rides-me/). The highs bring prayer. The lows take it away. The cycle continues.
+[^5]: I wrote about bipolar and faith [here](/2025/a-cycle-rides-me/). The highs bring prayer. The lows take it away. The cycle continues.
 
 बस चल रहा हूं मैं।
 

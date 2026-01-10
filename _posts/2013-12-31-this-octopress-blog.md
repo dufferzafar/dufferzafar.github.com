@@ -1,4 +1,5 @@
 ---
+redirect_from: /2013/12/31/this-octopress-blog/
 layout: post
 title: "This Octopress Blog"
 date: 2013-12-31 01:53

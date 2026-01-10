@@ -1,4 +1,5 @@
 ---
+redirect_from: /2017/07/18/access-control-issue-iitd-portal/
 layout: post
 title:  "An access control issue in IITD's Portal"
 date:   2017-07-18 7:03:48

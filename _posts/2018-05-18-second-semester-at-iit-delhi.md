@@ -1,4 +1,5 @@
 ---
+redirect_from: /2018/05/18/second-semester-at-iit-delhi/
 layout: post
 title:  Second Semester at IIT Delhi
 date:   2018-05-18 22:46:27
