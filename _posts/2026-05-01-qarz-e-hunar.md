@@ -5,7 +5,7 @@ date: 2026-05-01
 
 We didn't have internet at home.
 
-So after school, I'd walk down to the cybercafe near our house, hand the man behind the counter a ten-rupee note (twenty when I felt rich), plug in my pendrive, and start scraping. Wikipedia pages, programming tutorials, conference talks, PDFs — whatever caught my eye that week. I never actually watched anything inside the cafe; I was greedy with the bandwidth. The real treat was carrying it all home and going through it slowly at the family desktop in Gurgaon, where my younger brother [Mehtab](https://blog.mzfr.me/) — Guddu — would come visit during his school holidays and we'd sit there hunched together, learning whatever we could.
+So after school, I'd walk down to the cybercafe near our house, hand the man behind the counter a ten-rupee note (twenty when I felt rich), plug in my pendrive, and start scraping. Wikipedia pages, programming tutorials, conference talks, PDFs — whatever caught my eye that week. I never actually watched anything inside the cafe; I was greedy with the bandwidth. The real treat was carrying it all home and going through it slowly at the family desktop, where my younger brother [Mehtab](https://blog.mzfr.me/) — Guddu — would come visit during his school holidays and we'd sit there hunched together, learning whatever we could.
 
 ![Me and Guddu at that desk, August 2010](/images/Shadab-Mehtab-20100812.jpg)
 
@@ -31,9 +31,9 @@ A few months ago two of my patches landed in DuckDB, and my neighbor's son [Adee
 
 Sometime in 2013 or 2014, [Richard Stallman](https://en.wikipedia.org/wiki/Richard_Stallman) came to Delhi.
 
-A bunch of us from JMI went — [Shivam](https://shivamrana.me/), me, [Tushar](https://www.linkedin.com/in/tushar-raheja-bbab51118/), maybe [Nikhil](https://www.linkedin.com/in/nickedes/). The talk, IIRC, was at Acharya Narendra Dev College in Govindpuri. RMS shuffled onto the stage with an old laptop that looked silly even by 2014 standards. He was a heavy man, and at some point during the talk his jumper rode up and a strip of belly showed; the kids at the back of the hall started giggling. They had no clue who he was.
+A bunch of us from JMI went — [Shivam](https://shivamrana.me/), me, [Tushar](https://www.linkedin.com/in/tushar-raheja-bbab51118/), maybe [Nikhil](https://www.linkedin.com/in/nickedes/). The talk, IIRC, was at some Delhi University college. RMS shuffled onto the stage with an old laptop that looked silly even by 2014 standards. He was a heavy man, and at some point during the talk his jumper rode up and a strip of belly showed; the kids at the back of the hall started giggling. They had no clue who he was.
 
-I didn't laugh. I sat there enamored, listening to him talk about the GPL, gcc, the four freedoms. On the bus back to JMI I wouldn't shut up about him — I think I gave Tushar an entire history of GNU before we'd reached the campus gate. He handed out free FSF stickers that day. I'm pretty sure I still have one in a drawer somewhere.
+I didn't laugh. I sat there enamored, listening to him talk about the GPL, gcc, the four freedoms. On the bus back to campus I wouldn't shut up about him — I think I gave Tushar an entire history of GNU before we'd reached the campus gate. He handed out free FSF stickers that day. I'm pretty sure I still have one in a drawer somewhere.
 
 ---
 
@@ -81,7 +81,7 @@ By the end of August, Google had paid me ₹3 lakhs[^stipend] for my work.
 
 [^stipend]: GSoC 2014 paid around $5,500 — close to ₹3 lakh at the time. Across three summers (2014 Picard, 2015 CritiqueBrainz, 2016 Mitmproxy) it added up to about ₹10 lakhs.
 
-In 2001, when I was in class 3rd, my mom had taken a personal loan of ₹3 lakhs to buy a small house in Vijay Park, Maujpur, Delhi. After my parents separated, that loan stood against her salary as a Hindi teacher at Zakir Hussain School in Jafrabad. It took her 8 years to pay off, and the fear of loans she developed in those years has stuck with all of us[^loan].
+In 2001, when I was in class 3rd, my mom had taken a personal loan of ₹3 lakhs to buy a small house. After my parents separated, that loan stood against her salary as a Hindi teacher in a government school. It took her 8 years to pay off, and the fear of loans she developed in those years has stuck with all of us[^loan].
 
 [^loan]: There is no shape of post in which I can talk about my mother for the right amount of time. I'll write about her properly elsewhere. The fact this post needs is: she paid back a ₹3-lakh loan over a span of 8 years of teaching school. I made the same number in three months. The exchange rate of effort to money was the most violent thing I had ever felt.
 
@@ -219,7 +219,7 @@ the trials of love are far from done.)*[^iqbal-1]
 
 I should tell you about Wasim bhai.
 
-When I was 19 and starting BTech at Jamia in 2012, my mom had already been living for six years in a single second-floor room in Jafrabad's Gali No. 7 — a few minutes' walk from her school. The house belongs to **Wasim bhai**, a gem of a human being whose family has, over those two decades, become ours. His three kids — Arisha, Uzair (a genuinely talented cartoon artist), and Adeeb, the youngest — I have watched grow up in front of me. Adeeb is now in his second year of BTech CS.
+When I was 19 and starting BTech at Jamia in 2012, my mom had already been living for six years in a single second-floor room a few minutes' walk from her school. The house belongs to **Wasim bhai**, a gem of a human being whose family has, over those two decades, become ours. His three kids — Arisha, Uzair (a genuinely talented cartoon artist), and Adeeb, the youngest — I have watched grow up in front of me. Adeeb is now in his second year of BTech CS.
 
 I have been pestering him for months: *give GSoC a shot. You're a CS student in 2026, you have time, you have AI agents, you have me.* This year, finally, he took it seriously.
 
@@ -243,7 +243,7 @@ An uncomfortable mirror. But the contest was still on — the deadline was still
 
 We looked for orgs that were selected for GSoC 2026 for the first time, so the candidate pool would be smaller. Adeeb has now submitted proposals to [Wagtail](https://wagtail.org/) (the CMS) and [Learning Unlimited](https://learningu.org/) (an education non-profit). As I write this, he is waiting for the results.
 
-I genuinely don't know if he will get in. If he does, he'll have done it with much less effort than it took me in 2014, because tools like Cursor make it possible for a 20-year-old in Jafrabad to draft a substantial PR over an evening — *if* he applies his brain to it. Exactly the discipline [Google's GSoC 2026 AI guidance](https://developers.google.com/open-source/gsoc/resources/ai_guidance) is asking every org to define[^google-policy].
+I genuinely don't know if he will get in. If he does, he'll have done it with much less effort than it took me in 2014, because tools like Cursor make it possible for a 20-year-old in Delhi to draft a substantial PR over an evening — *if* he applies his brain to it. Exactly the discipline [Google's GSoC 2026 AI guidance](https://developers.google.com/open-source/gsoc/resources/ai_guidance) is asking every org to define[^google-policy].
 
 [^google-policy]: Google has, for the first time, asked every GSoC org in 2026 to publish a clear AI usage policy. The guidance distinguishes between using AI for research and learning (encouraged), boilerplate and grunt work (encouraged), and core logic that the contributor doesn't fully understand (discouraged, sometimes outright banned). The mentor concerns it summarises are exactly what MonkeyDo was venting on Adeeb's PR: low quality, blind trust, hindrance to learning, increased maintainer load. Read the [page](https://developers.google.com/open-source/gsoc/resources/ai_guidance) — it's the most honest summary of where the OSS-AI tension is right now.
 
@@ -261,15 +261,15 @@ who throw their lasso at the stars.)*[^iqbal-2]
 
 What follows is personal. These are the reasons I started writing.
 
-**Iqra**, my mamu's eldest daughter — nickname *Muskan*, "the smiler" — just got into MBBS at HNB Uttarakhand Medical University. The first time I held her was July 2005, a few days after she was born, and I fell in love on the spot. Allah has, by some accounting I do not understand, kept that smile in working order ever since. You'll never catch her crying in public. She has her bathrooms for that.
+**Iqra**, my sister — nickname *Muskan*, "the smiler" — just got into MBBS. The first time I held her was July 2005, a few days after she was born, and I fell in love on the spot. Allah has, by some accounting I do not understand, kept that smile in working order ever since. You'll never catch her crying in public. She has her bathrooms for that.
 
-![Iqra at our desk in Gurgaon, July 2009](/images/Muskan-PC-20090719.jpg)
+![Iqra at our desk, July 2009](/images/Muskan-PC-20090719.jpg)
 
 *(Same desk, same CRT as the photo at the top of this post — a lot of my childhood happened in front of that screen.)*
 
-**Ziqra**, my mamu's second daughter — technically my cousin, but on most days she feels more like my sister, and on her best days like my own daughter[^ziqra] — just gave her BTech entrance exams. She wants to do CS or AI. I'm going to push her toward open source as hard as I can. Maybe MetaBrainz, full circle. Maybe somewhere new.
+**Ziqra**, another of my sisters — technically my cousin, but on most days she feels more like my sister, and on her best days like my own daughter[^ziqra] — just gave her BTech entrance exams. She wants to do CS or AI. I'm going to push her toward open source as hard as I can. Maybe MetaBrainz, full circle. Maybe somewhere new.
 
-[^ziqra]: When my parents separated, our family of four split four ways — my dad in Noida/Gangavli, my mom in Delhi, Mehtab with our nani and Bhaiya mamu in Dhandhera, me with Nadeem mamu and mami in Gurgaon/Bahadurgarh. Mamu's four daughters became, by sheer time spent under the same roof, my sisters. Some days they still feel like daughters. The Indian extended family rearranges itself around things like this, and most of the time it's a gift.
+[^ziqra]: When my parents separated, our family of four split four ways across different households. Mehtab grew up with our nani; I grew up with our mamu's family. Mamu's four daughters became, by sheer time spent under the same roof, my sisters. Some days they still feel like daughters. The Indian extended family rearranges itself around things like this, and most of the time it's a gift.
 
 Ziqra has a deeper religious instinct than I do, and made the connection at once: open-source contribution is a form of *sadqa-e-jariah* — the Islamic idea of perpetual charity, the kind that keeps giving long after you are gone. A piece of code people use after you're dead, she said, is a kind of prayer. *(That's its own post for another day.)*
 
@@ -293,6 +293,6 @@ The debt of craft is, gratefully, not the kind of debt my mother feared. It does
 
 Aaron Swartz, on a stage in the sun, microphone in hand: *programming is a superpower.*
 
-A boy in Gurgaon Sector 5, hunched over the family desktop with his little brother, picking through a pendrive of cybercafe loot.
+A boy at the family desktop with his little brother, picking through a pendrive of cybercafe loot.
 
 The man on the stage is still saying it. The boy at the desk is still listening.
