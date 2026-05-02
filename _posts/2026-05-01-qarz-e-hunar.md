@@ -3,36 +3,37 @@ title: "Qarz-e-Hunar"
 date: 2026-05-01
 ---
 
-Aaron Swartz, on a stage in the sun, microphone in hand: *programming is a superpower. It's meant to change the world.*
+We didn't have internet at home.
 
-![Me and Guddu at our desk in Gurgaon, August 2010](/images/Shadab-Mehtab-20100812.jpg)
+So after school, I'd walk down to the cybercafe near our house, hand the man behind the counter a ten-rupee note (twenty when I felt rich), plug in my pendrive, and start scraping. Wikipedia pages, programming tutorials, conference talks, PDFs — whatever caught my eye that week. I never actually watched anything inside the cafe; I was greedy with the bandwidth. The real treat was carrying it all home and going through it slowly at the family desktop in Gurgaon, where my younger brother [Mehtab](https://blog.mzfr.me/) — Guddu — would come visit during his school holidays and we'd sit there hunched together, learning whatever we could.
 
-The pendrive cost ten rupees an hour. Sometimes twenty, if I felt rich.
+![Me and Guddu at that desk, August 2010](/images/Shadab-Mehtab-20100812.jpg)
 
-We didn't have internet at home. So my routine, after school, was to walk to the cybercafe near our house, pay the man at the counter, and start scraping. Tutorials. Conference videos. PDFs. I never *consumed* anything in the cafe — I was an optimizer you see. I'd fill the pendrive in 30-60 minutes and consume at home, at the desk you see in the photo above. My younger brother [Mehtab](https://blog.mzfr.me/) — Guddu — would visit during holidays and we'd sit there hunched together, learning what we could.
+It was on one of those afternoons that I clicked open a video I'd downloaded the day before. A young man in his twenties stood on a stage in the sun, microphone in hand, telling a crowd: *programming is a superpower. It's meant to change the world.*
 
-That was the afternoon. I was eighteen. I had been thinking about computers all my life. And here was a young man on the other side of the world telling me the thing I did with my hands was a *superpower*.
+His name was Aaron Swartz.
 
-For an 18-year-old kid in the capital of India, that was — I still don't have the right word. *Permission*, maybe. Permission to take this thing seriously.
+I was eighteen, I had been thinking about computers all my life, and here was someone on the other side of the world — dressed nothing like a teacher — telling me that the thing I'd been quietly doing with my hands actually mattered. I don't think I have the right word for what that meant to a kid in Delhi in 2011. The closest I can get is *permission*. Permission to take this seriously.
 
 <!-- more -->
 
 ## tl;dr
 
-- I owe my career to open source. Specifically, to MetaBrainz and three GSoC summers between 2014 and 2016.
-- I was also exactly the kind of "drive-by" Indian contributor that maintainers like [ruaok](https://blog.metabrainz.org/author/ruaok/) and [Maximilian Hils](https://news.ycombinator.com/item?id=14020814) complained about. I left when the stipends did.
-- Ten years later: two DuckDB patches, a salary that covers the time, and a young neighbor named [Adeeb](https://github.com/Dewolf1/) whom I'm trying to push toward GSoC.
-- This is the debt of craft. I owe it. I'm starting to pay it back.
+*Qarz-e-Hunar* is Urdu for **the debt of craft** — what you owe the people and projects that taught you how to make things.
+
+I owe my career to open source — to MetaBrainz mostly, and to three Google Summer of Code summers between 2014 and 2016 that paid me more than my mother earned from a decade of teaching school.
+
+I was also exactly the kind of "drive-by" Indian contributor that maintainers like [Robert Kaye](https://blog.metabrainz.org/author/ruaok/) and [Maximilian Hils](https://news.ycombinator.com/item?id=14020814) complained about on IRC and Hacker News. I left when the stipends did. For the ten years that followed, I was somebody else's cautionary tale.
+
+A few months ago two of my patches landed in DuckDB, and my neighbor's son [Adeeb](https://github.com/Dewolf1/) submitted his first GSoC proposal. This post is about the ten years in between — what they cost, what I owed, and what I am trying to pay back.
 
 ## the discovery
 
 Sometime in 2013 or 2014, [Richard Stallman](https://en.wikipedia.org/wiki/Richard_Stallman) came to Delhi.
 
-Some of us — [Shivam](https://shivamrana.me/), me, [Tushar](https://www.linkedin.com/in/tushar-raheja-bbab51118/), maybe [Nikhil](https://www.linkedin.com/in/nickedes/) — went to the talk. I think it was at Acharya Narendra Dev College in Govindpuri. We were undergrads at Jamia, fresh and starry-eyed. RMS shuffled onto the stage with an old laptop that looked silly even by 2014 standards. He was a fat man, and at one point when he took his jumper off, his belly showed and the kids at the back of the hall started giggling. They had no clue who the guy was.
+A bunch of us from JMI went — [Shivam](https://shivamrana.me/), me, [Tushar](https://www.linkedin.com/in/tushar-raheja-bbab51118/), maybe [Nikhil](https://www.linkedin.com/in/nickedes/). The talk, IIRC, was at Acharya Narendra Dev College in Govindpuri. RMS shuffled onto the stage with an old laptop that looked silly even by 2014 standards. He was a heavy man, and at some point during the talk his jumper rode up and a strip of belly showed; the kids at the back of the hall started giggling. They had no clue who he was.
 
-I didn't laugh. I sat there enamored, listening to him talk about the GPL, gcc, the four freedoms. On the bus back to JMI I wouldn't shut up about him. I think I gave Tushar an entire history of GNU.
-
-He gave out free FSF stickers that day. I think I still have one somewhere.
+I didn't laugh. I sat there enamored, listening to him talk about the GPL, gcc, the four freedoms. On the bus back to JMI I wouldn't shut up about him — I think I gave Tushar an entire history of GNU before we'd reached the campus gate. He handed out free FSF stickers that day. I'm pretty sure I still have one in a drawer somewhere.
 
 ---
 
@@ -40,33 +41,33 @@ A few months later, Shivam came up to me with a glint in his eye.
 
 > "Bhai ek org hai jo music ka andha data collect karti hai. GSoC karte hain."
 >
-> *(Bro, there's an org that collects insane amounts of music data. They do GSoC.)*
+> *(Bro, there's an org that collects insane amounts of music data. Let's do GSoC.)*
 
-The org was [MetaBrainz](https://metabrainz.org/). I went home that night, found the GSoC ideas page, and got obsessed. We already knew about GSoC because [Akif bhai](https://www.linkedin.com/in/akifkhan1/) — a senior at Jamia — had done it the previous year. He was the local proof that this was possible for kids like us.
+The org was [MetaBrainz](https://metabrainz.org/). I went home that night, found the GSoC ideas page, and got obsessed. We already knew the program existed — [Akif bhai](https://www.linkedin.com/in/akifkhan1/), a senior from Jamia, had done GSoC the year before and was our proof that kids like us could get in.
 
-I applied to MetaBrainz. I got in.
+I applied to MetaBrainz and got in.
 
-My 2014 project was [MusicBrainz Picard](https://picard.musicbrainz.org/) — the cross-platform music tagger. I built the website you see at that URL today, and added in-app plugin downloads to Picard itself. It was my first foray into Python/Qt desktop apps. Robert Kaye — *ruaok*, MetaBrainz's founder — was running things from somewhere in Europe, and the whole community lived on `#metabrainz` and `#musicbrainz` on Freenode. My handle was `dufferzafar`. Still is.
+My 2014 project was the [MusicBrainz Picard](https://picard.musicbrainz.org/) website — the marketing site that lives at that URL today — plus a feature inside Picard itself: a way to browse and install community plugins from within the app. It was my first real exposure to Python/Qt desktop development. Robert Kaye — *ruaok*, MetaBrainz's founder — ran the org from somewhere in Europe, and the whole community lived on `#metabrainz` and `#musicbrainz` on Freenode. My IRC handle was `dufferzafar`. It still is.
 
-I remember Shivam reading my first IRC messages and laughing the next day:
+A few weeks in, Shivam read my first batch of IRC messages and laughed the next day:
 
-> "Tu kitna humble hai re. *(How humble you sound, dude.)*"
+> "Tu kitna humble hai re." *(How humble you sound, dude.)*
 
-I was confused. Wasn't that how you talked online?
+I was confused. Wasn't that just how you talked online?
 
-It took me years to realize I was IRC-polite in the way only a kid who grew up writing "Respected Sir" at the top of every school exam could be. Westerners read it as deferential, weird, very-online-Indian. The [Maximilian Hils](https://news.ycombinator.com/item?id=14020814) of the world were used to terse, blunt, "ship it" Slack-speak. It was the tiniest cultural friction. But it was *there*.
+It took me years to realize I'd been writing on IRC the same way I'd been writing "Respected Sir" at the top of school exams since I was eight. The maintainers we were talking to were used to something terser. They probably read me as overly formal, slightly off, unmistakably Indian. A small friction, but a real one.
 
 ## dhandhera
 
-Summer of 2014. The work happened from my nani's house in Dhandhera, a small village near Roorkee.
+The work that summer happened from my nani's house in Dhandhera, a small village near Roorkee.
 
-No AC — just desert coolers humming loud enough to drown the azaan. Powercuts, of course. I had an MTS dongle for the internet[^mts] and a Dell laptop I'd bought during my first year of BTech. Family understood I was "working for Google" — close enough.
+A desert cooler blowing heavenly air. Powercuts, naturally. I had an MTS dongle for the internet[^mts] and a Dell laptop I'd bought in my first year of BTech. The family understood I was "working for Google", which was close enough.
 
-[^mts]: I lived on a 7 GB/month prepaid plan. Monitoring bandwidth was so critical that I [wrote a Linux usage tracker](https://github.com/dufferzafar/netuse) for it because Networx didn't exist for Linux. 160 stars later, that repo is a strange little artifact of how thin a thread Indian internet hung from in 2012.
+[^mts]: I lived on a 7 GB/month prepaid plan. Monitoring bandwidth was critical enough that I [wrote a Linux usage tracker](https://github.com/dufferzafar/netuse) for it, because Networx didn't exist for Linux. 160 stars later, that repo is a strange little artifact of how thin a thread Indian internet hung from in 2012.
 
-My schedule was inverted: bath at 10:30 PM, dinner, then sit at the desk till 6 AM. The IRC channels were busiest at 2-4 AM IST — that's when the Europeans and Americans were online, which is when my mentors were online, which is when the work happened. I'd sleep through the day, wake up around 4 PM, do some goofing around, and start again.
+My schedule was inverted: bath at 10:30 PM, dinner, then the desk until six in the morning. IRC was busiest from 2 to 4 AM IST, when the Europeans and Americans were online and my mentors were among them. I'd sleep through the day, wake up around 4 PM, mess about for a bit, and start again.
 
-People in the village would walk past our open gate at strange hours and see me hunched at a screen. Some of them asked Guddu:
+People in the village would walk past our open gate at odd hours and see me hunched over a screen. Some of them asked Guddu:
 
 > "Tera bhai kya karta rehta hai raat bhar?"
 >
@@ -76,37 +77,57 @@ He didn't always have an answer.
 
 ---
 
-At the end of that summer Google paid me ₹3 lakhs[^stipend].
+By the end of August, Google had paid me ₹3 lakhs[^stipend] for my work.
 
-[^stipend]: GSoC 2014 stipend was about $5,500. ₹3 lakh in 2014 was real money for a 20-year-old in India. Across three GSoCs (2014, 2015, the part-stipend in 2016), it was close to ₹10 lakh. You'll see why that exact number is load-bearing in a moment.
+[^stipend]: GSoC 2014 paid around $5,500 — close to ₹3 lakh at the time. Across three summers (2014 Picard, 2015 CritiqueBrainz, 2016 Mitmproxy) it added up to about ₹10 lakhs.
 
-When I was in class 2 or 3, my mom had taken a loan of ₹3 lakhs to buy a small house in Vijay Park, Maujpur, Delhi. After my parents separated, that loan stood against her teacher's salary at Zakir Hussain school in Jafrabad. It took her years to pay off. She has been afraid of loans ever since, and has imparted that fear to all of us[^loan].
+In 2001, when I was in class 3rd, my mom had taken a personal loan of ₹3 lakhs to buy a small house in Vijay Park, Maujpur, Delhi. After my parents separated, that loan stood against her salary as a Hindi teacher at Zakir Hussain School in Jafrabad. It took her 8 years to pay off, and the fear of loans she developed in those years has stuck with all of us[^loan].
 
-[^loan]: There is no shape of post in which I can talk about my mom for the right amount of time. So I'm going to leave most of it for elsewhere. The relevant fact for this post is: she paid back a 3-lakh loan over a decade of teaching school. I made the same number in three months. The exchange rate of effort to money was the most violent thing I had ever felt.
+[^loan]: There is no shape of post in which I can talk about my mother for the right amount of time. I'll write about her properly elsewhere. The fact this post needs is: she paid back a ₹3-lakh loan over a span of 8 years of teaching school. I made the same number in three months. The exchange rate of effort to money was the most violent thing I had ever felt.
 
-When I received that first GSoC stipend, the only number my brain could compare it to was that loan. *One summer of typing on IRC at 3 AM, and I had matched a decade of my mother's salary.*
+When I received that first stipend, the only number my brain could put next to it was that loan. Three months at the desk had matched ten years of my mother's pay.
 
 ## the fall
 
-I came back the next year — 2015 — for [CritiqueBrainz](https://critiquebrainz.org/). It was a Flask app for music reviews. My mentor was [Roman Tsukanov](https://github.com/gentlecat). I picked the project because Flask was familiar; I wanted something I could ship without learning a new framework. There aren't many memorable beats from that summer. It was easy. I was getting good at this.
+I came back the next year — 2015 — for [CritiqueBrainz](https://critiquebrainz.org/), a Flask app for music reviews. My mentor was [Roman Tsukanov](https://github.com/gentlecat). I picked the project because Flask was familiar and I wanted something I could ship without learning a new framework. I don't have many specific memories from that summer. It was easy, and I was getting good at this.
 
-Then came 2016.
+---
 
-I applied for a third GSoC with MetaBrainz. By this point I'd been on `#metabrainz` for two summers, but my contributions had been almost entirely seasonal — turn up in March, ship through August, vanish till next March. Ruaok had noticed.
+In March 2016, between summers, Google gave [Chaitu](https://www.linkedin.com/in/chait/) and me $500 each toward a trip to [FOSSASIA](https://fossasia.org/) in Singapore. The rest we arranged ourselves. It was the first time I left India.
 
-He sent a message that, paraphrased from memory, went something like:
+[Chaitanya](https://github.com/ichait) was a close friend then — we've drifted since, in the way friends sometimes do. I delivered a [talk](https://youtu.be/JH_tqlnvIaU) (on terminals, of course) at the conference, ate KFC for 3 days, and walked around Marina Bay feeling like the protagonists of a movie I'd only ever watched.
+
+I met [Stephanie Taylor](https://www.linkedin.com/in/stephaniertaylor/), who ran GSoC at Google — the actual person on the other end of the program that had paid off my mother's loan.
+
+![With Stephanie at FOSSASIA, Singapore, March 2016](/images/Stephanie-Singapore-20160319.jpg)
+
+We also met [Mike McQuaid](https://www.linkedin.com/in/mkmcqd/), then at GitHub, who at some point said in passing: *you two should apply.* We took that sentence back to the AirBnB with us. *Job. At GitHub.* It was a pipedream, and we knew it, and we kept saying it anyway.
+
+The trip split our paths. Chaitu fell in love with the city, did his master's at NUS a few years later, and settled there for good. I came home with a different feeling — *ye pardes bilkul waisa hi hai jaisa mummy ne samjhaya tha.*[^pardes]
+
+[^pardes]: *This foreign place is exactly what mummy had warned me about.* Hindi cinema has a century-long argument about *pardes* — that it looks beautiful from a distance and hollows you out from the inside. Singapore decided it for me in five days. Some people are made for elsewhere. I am very much not.
+
+---
+
+I applied for a third GSoC with MetaBrainz. By that point I'd been on `#metabrainz` for two summers, but my contributions had been almost entirely seasonal — turn up in March, ship through August, vanish till next March. Robert (ruaok) had noticed.
+
+While I was discussing prospective GSoC ideas for the year, ruaok sent a message that, paraphrased from memory, went something like:
 
 > *Shadab, we're not going to take you this year. You only show up for the GSoC period and then disappear, which is against the spirit of the program. If you stick around as a non-GSoC contributor for the year, we'll consider you next time.*
 
-[Aditya](https://github.com/kwikadi) — another close friend — was on the channel and immediately started DMing me damage-control advice. *Don't tell him this is your final year. Don't say you won't be a student in 2017. Just nod and say you'll stick around.*
+[Aditya](https://github.com/kwikadi), another close friend, was on the channel at the time and immediately started DMing me damage-control advice. *Don't tell him this is your final year. Don't say you won't be a student in 2017. Just nod and say you'll stick around.*
 
-Reader, I told him exactly that. *"Robert, this is my BTech final year. I won't be a student next year."*
+I told him exactly that.
 
-I felt shamed. I tried to weave my way out of it. I couldn't. Ruaok had drawn the line cleanly and I had walked over it onto the wrong side, on public IRC, in front of everyone.
+> "Hey Rob, this is my BTech final year. I won't be a student next year."
 
-I pivoted. I applied a second time that year — to [Mitmproxy](https://mitmproxy.org/) under [Honeynet](https://www.honeynet.org/) — and got in. The work was real: I led the Python 2 to Python 3 port of major internal libraries, and made scattered improvements through the summer. My mentor was Maximilian Hils.
+I felt a little shamed. I tried to weave my way out of it, and couldn't. ruaok had drawn the line cleanly, and I had walked across it onto the wrong side — on public IRC, in front of everyone.
 
-Even though I kept up with the project, I never contributed to Mitmproxy after that summer ended.
+GSoC had become a competitive sport for me by that point, and I did what any half-decent athlete does after a loss: I pivoted.
+
+I applied to [Mitmproxy](https://mitmproxy.org/) under the [Honeynet](https://www.honeynet.org/) umbrella, and got in. My mentor was Maximilian Hils. I made a bunch of scattered improvements that summer, beginning with the Python 2 to Python 3 port of Mitmproxy's major internal libraries.
+
+I lurked around the project for a few months afterward. I never contributed to Mitmproxy again.
 
 ---
 
@@ -130,48 +151,50 @@ that this hungry merrymaking of ours would, one day, bear color.)*[^ghalib]
 
 ## the indianness of it all
 
-Here's the thesis. I want to be plain about it.
+Here's the thesis.
 
-Open source contribution, as it's practiced in the West, quietly assumes a social safety net and a career ladder that doesn't punish you for spending a summer unpaid on a volunteer project. Indian students don't have that. Cut-throat competition starts in school and escalates through college; the pop curve is what it is, unemployment is what it is, and we all need to outwork each other to stay afloat.
+Open source as it's practiced in the West assumes a social safety net and a career ladder that doesn't punish you for unpaid summers. Indian students don't have that. Cut-throat competition starts in school and only intensifies through college — the population curve is what it is, unemployment is what it is, and we spend our twenties trying to outpace each other because that's the only path through.
 
-Our generation showed up for the stipend, learned real craft, and then vanished into jobs that demanded everything we had — exactly the pattern Ruaok and Max named on IRC and HN. They weren't wrong. I was one of those students.
+Our 2010s GSoC generation showed up for the stipend, learned real craft, then vanished into jobs that demanded everything we had — exactly the pattern Ruaok and Max named on IRC and HN. They weren't wrong. I was one of those students.
 
 And I wasn't alone.
 
-- Shivam, who introduced me to MetaBrainz, never did GSoC. He went on to do excellent work elsewhere, but the OSS hobby never stuck.
-- Akif, our inspiration, did one GSoC at OpenSUSE in 2013 and (as far as I can tell from the outside) drifted into industry like the rest of us. I have nothing but respect for him; without him I wouldn't have known the program existed. But the pattern holds.
+- Shivam, who introduced me to MetaBrainz, never did GSoC. He went on to do excellent work elsewhere, but the open-source hobby never picked up.
+- Akif, who had been our inspiration, did his one GSoC at OpenSUSE in 2013 and, as far as I know, didn't go back. I owe him a great deal regardless — without him, I wouldn't have known the program existed.
 
-It wasn't that any of us *didn't want to*. I wanted to keep contributing. I genuinely did. But you finish your degree, you take the job that pays the rent or the loan or both, and then college courses and projects and exams give way to OKRs and standups and on-calls. The incentive evaporates. The maintainers in Berlin and Amsterdam and Barcelona keep going, because their lives have room for it. Ours don't.
+It wasn't that we didn't want to. I wanted to keep contributing — I genuinely did. But you finish your degree, you take the job that pays the rent or the loan or both, and college courses and exams give way to OKRs and on-calls. The incentive evaporates. The maintainers in Berlin and Amsterdam and Barcelona keep going because their lives have room for it. Ours don't.
 
-This is not an excuse. It is, I think, an explanation.
+This isn't an excuse. It's an explanation.
 
 ## the crater
 
 Between 2016 and 2026 there is a ten-year hole in my open-source life.
 
-I joined Adobe straight out of Jamia in mid-2016 — a sweet placement, a fat package, a famous company. The role turned out to be writing Selenium-based unit tests in Python. After two weeks of staring at it, I'd convinced myself a 12th-pass kid could do this work. Over lunch, my friend [Prerit](https://www.linkedin.com/in/prerit2010/) and I quietly decided to resign together and prep for GATE. My manager was *furious*:
+I joined Adobe straight out of Jamia in July 2016 — a sweet placement, a fat package, a famous company. The role turned out to be writing Selenium-based unit tests in Python. After two weeks of staring at it, I decided a 12th-pass kid could do this work. Over lunch, my friend [Prerit](https://www.linkedin.com/in/prerit2010/) and I quietly agreed to resign together and prep for GATE. My manager was furious:
 
 > "I'll make sure you're blacklisted from Adobe."
 >
 > "Adobe has invested so much in you already. Is this how you repay?"
 
-The word *repay* sticks with me to this day, given everything else this post is about.
+That word — *repay* — has stuck.
 
-I gave GATE in February 2017 — AIR 59 — and joined IIT Delhi MTech CS in June. The course load was brutal. I realized fast that hobbyist programming would have to die if I wanted to actually do well in MTech, and as much as it pained me, I let it die. From 2017 to 2019: little to no hobby OSS. In June 2019 I got placed at [Tower Research Capital](https://www.tower-research.com/), where I have been ever since[^trc].
+Adobe held me to a few months of notice. I served it while quietly finishing my Mitmproxy GSoC on Adobe time. For most of that summer, both Adobe and Google were paying me at once — one for Selenium tests I wasn't writing, the other for Python 3 code I actually was.
 
-[^trc]: TRC is a quantitative trading firm doing serious systems work — low-latency C++, custom file formats, in-house storage engines. The day job is intellectually rich and it pays absurdly well. I've written elsewhere about the [moral dissonance](/2025/12/30/saarthi/) of working in HFT and the [career path that didn't happen](/2026/01/14/civil-service/). What that day job *didn't* leave room for, for a very long time, was open source.
+I gave GATE in February 2017 — AIR 59 — and joined IIT Delhi MTech CS in June. The course load was brutal, and I realised fast that I would have to give up hobbyist programming if I wanted to do well in MTech. As much as it pained me, I did. From 2017 to 2019: almost no hobby OSS. In June 2019 I got placed at [Tower Research Capital](https://www.tower-research.com/), where I have been ever since[^trc].
 
-So: ten years. Few public PRs. No IRC. No mentoring. Freenode/Discord kept buzzing without me, exactly as the mentors had predicted.
+[^trc]: TRC is a quantitative trading firm — low-latency C++, custom file formats, in-house storage engines. The day job is intellectually rich and it pays absurdly well. I've written elsewhere about the [moral dissonance](/2025/saarthi/) of working in HFT and the [career path that didn't happen](/2026/civil-service/). What it didn't leave room for, for the longest time, was open source.
+
+So: ten years. A few drive-by commits at most. IRC channels kept buzzing without me, exactly as the mentors had predicted they would.
 
 ## the return
 
 January 2026.
 
-We had an internal use case at Tower: an embedded DuckDB instance, run from C++, serving multi-tenant analytical queries from a single in-memory database. Two missing primitives kept biting us — there was no way to bound the memory budget *per connection*, and no way to time-bound a single runaway query. Both are standard postgres-shaped capabilities. Both were trivially missing.
+A project at Tower needed two primitives that DuckDB didn't ship with: a way to bound memory per connection, and a way to time-bound a runaway query. Both are postgres-shaped capabilities. Both were trivially missing.
 
-I sat down to think about what the right shapes for these settings would be. That part — the ideas, the API, the integration story — was mine. The C++ implementation was all [Cursor](https://cursor.sh/), the AI coding agent I use at work. I'm not going to pretend otherwise.
+I worked out what these settings should look like — what to add, how the API should read, how the new options should integrate with the existing knobs. That part was mine. The C++ implementation was all [Cursor](https://cursor.sh/), the AI coding agent I use at work.
 
-DuckDB has a strict policy against AI-enabled PRs[^duckdb-policy]. So I went the other direction. I broke each patch into small, independently reviewable commits. I reviewed every line myself before pushing.
+DuckDB has a strict policy against AI-generated PRs[^duckdb-policy]. So I overcompensated. Each patch was broken into small, independently reviewable commits. I made multiple passes over the code myself before pushing, and ran the entire test suite locally before opening each PR.
 
 [^duckdb-policy]: Most serious database projects do, and for good reasons — license cleanliness, code quality, maintainer load. The point of disclosing AI use isn't moral; it's practical. The maintainer's time is the scarce resource. If you're using AI, you owe them an even tighter PR than if you weren't.
 
@@ -180,9 +203,9 @@ Two PRs landed:
 - [#20585](https://github.com/duckdb/duckdb/pull/20585) — `max_execution_time`, merged Jan 26, 2026.
 - [#20219](https://github.com/duckdb/duckdb/pull/20219) — `operator_memory_limit`, merged Feb 2, 2026.
 
-Both are now in DuckDB main. Both will ship in some upcoming release (we missed v1.5.0's feature freeze). Tower needed them. We're using them. So is, presumably, anyone else who pulls DuckDB and wants per-connection budgets[^duckdb].
+Both are merged into DuckDB main. They'll ship in the release after v1.5.0. We're using them at Tower; presumably so is anyone else who pulls DuckDB and wants per-connection budgets.
 
-It was the first piece of upstream open source code I had merged in a decade. My manager at TRC was fully on board — once we needed it for our system, contributing back was the right thing to do. A decade after Ruaok's IRC message, I had become, finally, a contributor who stuck around long enough to address review feedback.
+It was the first piece of upstream open source code I had merged in a decade. My manager at TRC was fully on board — once we needed it internally, contributing it back upstream was the obvious thing to do. A decade after ruaok's IRC message, I had finally stuck around long enough to address review feedback.
 
 सितारों से आगे जहान और भी हैं<br>
 अभी इश्क़ के इम्तिहान और भी हैं
@@ -190,41 +213,41 @@ It was the first piece of upstream open source code I had merged in a decade. My
 *(There are worlds beyond the stars —<br>
 the trials of love are far from done.)*[^iqbal-1]
 
-[^iqbal-1]: Iqbal. I keep coming back to this couplet whenever I'm tempted to think any one chapter is closed. The trials of love (or craft, or anything you take seriously) keep coming. The stars are not the destination.
+[^iqbal-1]: Iqbal. I keep coming back to this couplet whenever I'm tempted to think a chapter is closed. The trials of love (or craft, or anything you take seriously) keep coming.
 
 ## adeeb
 
-I should tell you about my landlord.
+I should tell you about Wasim bhai.
 
-When I was 18 and starting BTech at Jamia in 2012, my mom had been renting a single second-floor room in Jafrabad's Gali No. 7 since 2006 — a few minutes' walk from her school. The owner of that house is **Wasim bhai**, a gem of a human being whose family has effectively been ours for two decades. His three kids — Arisha, Uzair (a genuinely talented cartoon artist), and Adeeb the youngest — I have watched grow up in front of me. Adeeb is now in his second year of BTech CS.
+When I was 19 and starting BTech at Jamia in 2012, my mom had already been living for six years in a single second-floor room in Jafrabad's Gali No. 7 — a few minutes' walk from her school. The house belongs to **Wasim bhai**, a gem of a human being whose family has, over those two decades, become ours. His three kids — Arisha, Uzair (a genuinely talented cartoon artist), and Adeeb, the youngest — I have watched grow up in front of me. Adeeb is now in his second year of BTech CS.
 
 I have been pestering him for months: *give GSoC a shot. You're a CS student in 2026, you have time, you have AI agents, you have me.* This year, finally, he took it seriously.
 
-We started at MetaBrainz, of course — the obvious choice for a kid I was mentoring with my own history. He picked [ListenBrainz](https://listenbrainz.org/), which is the MetaBrainz family's Last.fm-style listening tracker.
+We started at MetaBrainz, of course — the obvious choice given my history. He picked [ListenBrainz](https://listenbrainz.org/), the MetaBrainz family's Last.fm-style listening tracker.
 
-His first PR — [#3536](https://github.com/metabrainz/listenbrainz-server/pull/3536), a small fix to the fresh releases range selector — went in clean. AI-assisted but tightly reviewed by Adeeb, merged by [MonkeyDo](https://github.com/MonkeyDo) on Jan 27, 2026. We were thrilled.
+His first PR — [#3536](https://github.com/metabrainz/listenbrainz-server/pull/3536), a small fix to the fresh releases range selector — went in clean. AI-written but carefully reviewed before submission, merged by [MonkeyDo](https://github.com/MonkeyDo) on Jan 27, 2026. We were thrilled.
 
-His second PR — [#3544](https://github.com/metabrainz/listenbrainz-server/pull/3544), an API endpoint refactor for export — went the other way. Adeeb let Cursor generate the change and we didn't review the diff carefully. Sixty lines of test assertions silently disappeared. The test suite broke. MonkeyDo asked, on Jan 30:
+His second PR — [#3544](https://github.com/metabrainz/listenbrainz-server/pull/3544), an API endpoint refactor for export — went the other way. Adeeb let Cursor generate the change, and I didn't review the diff carefully enough. Sixty lines of test assertions silently disappeared. The test suite broke. MonkeyDo asked, on Jan 30:
 
 > *Initial review, there are some dubious changes that I can't explain to myself. If you generated the PR with AI, you must disclose it. I will point you to our [AI usage policy](https://github.com/metabrainz/guidelines?tab=readme-ov-file#ai-use-policy).*
 
-When Adeeb confessed two weeks later, MonkeyDo's reply:
+When we confessed two weeks later, MonkeyDo's reply:
 
 > *I will point you to our AI use policy, you must disclose any use of AI (and before we catch you in the act, not after). A piece of advice: don't trust AI output, it makes you a worse developer. Use your own skills, make sure you test your changes and review everything twice.*
 
 A few days later: *"LLM slop PR, closing."*
 
-It is the same MetaBrainz, ten years later, holding the same line. The slur has changed — "drive-by contributor" has become "LLM slop" — but the discipline is identical. *Don't waste maintainer time. If you're going to use the help, take responsibility for the result.* And both times, the kid being told this is an Indian college student trying to use the program as a leg up.
+It's the same MetaBrainz, ten years on, holding the same line. The complaint has changed — *drive-by contributor* has become *LLM slop* — but the discipline is identical: *don't waste maintainer time; if you're going to use the help, take responsibility for the result.* Both times, the kid on the receiving end is an Indian college student trying to use the program as a leg up.
 
-The mirror is uncomfortable to look at. It is also the most honest thing I can show you.
+An uncomfortable mirror. But the contest was still on — the deadline was still real, and Adeeb still needed to land somewhere. Same play as 2016: we pivoted.
 
-We pivoted. We looked for orgs that were selected for GSoC 2026 for the first time, so the candidate pool would be smaller. Adeeb has now submitted proposals to [Wagtail](https://wagtail.org/) (the CMS) and [Learning Unlimited](https://learningu.org/) (an education non-profit). As I write this, he is patiently waiting for the results.
+We looked for orgs that were selected for GSoC 2026 for the first time, so the candidate pool would be smaller. Adeeb has now submitted proposals to [Wagtail](https://wagtail.org/) (the CMS) and [Learning Unlimited](https://learningu.org/) (an education non-profit). As I write this, he is waiting for the results.
 
-I genuinely do not know if he will get in. If he does, he will do it with a fraction of the activation energy I needed in 2014, because tools like Cursor make it possible for a 20-year-old in Jafrabad to draft a substantial PR over an evening — *if* he applies his brain to it. Which is exactly what [Google's GSoC 2026 AI guidance](https://developers.google.com/open-source/gsoc/resources/ai_guidance) is now warning organizations to require[^google-policy].
+I genuinely don't know if he will get in. If he does, he'll have done it with much less effort than it took me in 2014, because tools like Cursor make it possible for a 20-year-old in Jafrabad to draft a substantial PR over an evening — *if* he applies his brain to it. Exactly the discipline [Google's GSoC 2026 AI guidance](https://developers.google.com/open-source/gsoc/resources/ai_guidance) is asking every org to define[^google-policy].
 
-[^google-policy]: Google has, for the first time, asked every GSoC org in 2026 to publish a clear AI usage policy. The guidance distinguishes between using AI for research and learning (encouraged), boilerplate and grunt work (encouraged), and core logic that the contributor doesn't fully understand (discouraged, sometimes outright banned). The mentor concerns it summarizes are exactly what MonkeyDo was venting on Adeeb's PR: low quality, blind trust, hindrance to learning, increased maintainer load. Read the [page](https://developers.google.com/open-source/gsoc/resources/ai_guidance). It's the most honest summary of where the OSS-AI tension is right now.
+[^google-policy]: Google has, for the first time, asked every GSoC org in 2026 to publish a clear AI usage policy. The guidance distinguishes between using AI for research and learning (encouraged), boilerplate and grunt work (encouraged), and core logic that the contributor doesn't fully understand (discouraged, sometimes outright banned). The mentor concerns it summarises are exactly what MonkeyDo was venting on Adeeb's PR: low quality, blind trust, hindrance to learning, increased maintainer load. Read the [page](https://developers.google.com/open-source/gsoc/resources/ai_guidance) — it's the most honest summary of where the OSS-AI tension is right now.
 
-The structural barrier mutates. In 2014 we needed *money* to contribute. In 2026 we need *permission* — and the sense — to use the tools that lower the cost of contributing. The barrier doesn't disappear. It just changes shape.
+The structural barrier mutates. In 2014 we needed money to contribute. In 2026 we need both permission and judgement to use the tools that lower the cost of contributing. The barrier doesn't disappear; it just changes shape.
 
 मोहब्बत मुझे उन जवानों से है<br>
 सितारों पे जो डालते हैं कमंद
@@ -232,48 +255,44 @@ The structural barrier mutates. In 2014 we needed *money* to contribute. In 2026
 *(My love is for those young ones —<br>
 who throw their lasso at the stars.)*[^iqbal-2]
 
-[^iqbal-2]: Iqbal again. If there's a single line that captures what I want from Adeeb, and from Ziqra, and from whichever Indian undergrad reads this post and decides to apply to GSoC 2027 — it is this. *Sitaaron pe daalna kamand.* Lasso-throwing. Audacity. Even when you miss, you've built the muscle for it.
+[^iqbal-2]: Iqbal again. If there's a single line that captures what I want for Adeeb, and for whichever Indian undergrad reads this post and decides to apply to GSoC 2027 — this is it. *Sitaaron pe daalna kamand.* Lasso-throwing at the stars. Even when you miss, you've built the muscle.
 
 ## the hope
 
-The post should end here, but I have some private dreams I want to leave on the page.
+What follows is personal. These are the reasons I started writing.
 
-**Iqra**, my mamu's eldest daughter — nickname *Muskan*, "the smiler" — just got into MBBS at HNB Uttarakhand Medical University. The first time I held her was July 2005, a few days after she was born, and I fell in love with how cute she looked on the spot. Allah has, by some accounting I do not understand, kept that cuteness in good repair ever since.
+**Iqra**, my mamu's eldest daughter — nickname *Muskan*, "the smiler" — just got into MBBS at HNB Uttarakhand Medical University. The first time I held her was July 2005, a few days after she was born, and I fell in love on the spot. Allah has, by some accounting I do not understand, kept that smile in working order ever since. You'll never catch her crying in public. She has her bathrooms for that.
 
 ![Iqra at our desk in Gurgaon, July 2009](/images/Muskan-PC-20090719.jpg)
 
-*(That CRT and that desk in the background — same desk Mehtab and I were sitting at in the photo at the top of this post. Half my childhood happened in front of that screen.)*
+*(Same desk, same CRT as the photo at the top of this post — a lot of my childhood happened in front of that screen.)*
 
-**Ziqra**, my mamu's second daughter — technically my cousin, but on most days she feels more like my sister, and on her best days like my own daughter[^ziqra] — just gave her BTech entrance exams. She wants to do CS or AI. I am going to push her toward open source the same way the elders pushed me. Maybe MetaBrainz, full circle. Maybe somewhere new.
+**Ziqra**, my mamu's second daughter — technically my cousin, but on most days she feels more like my sister, and on her best days like my own daughter[^ziqra] — just gave her BTech entrance exams. She wants to do CS or AI. I'm going to push her toward open source as hard as I can. Maybe MetaBrainz, full circle. Maybe somewhere new.
 
-[^ziqra]: When my parents separated, our family of four split into four pieces — my dad alone in Noida/Gangavli, my mom alone in Delhi, Mehtab with our nani and Bhaiya mamu in Dhandhera, me with Nadeem mamu and mami in Gurgaon/Bahadurgarh. Mamu's four daughters became, by sheer time-on-floor, basically my sisters. Some days they still feel like daughters. The Indian extended family does this kind of forensic emotional accounting, and most of the time it is a gift.
+[^ziqra]: When my parents separated, our family of four split four ways — my dad in Noida/Gangavli, my mom in Delhi, Mehtab with our nani and Bhaiya mamu in Dhandhera, me with Nadeem mamu and mami in Gurgaon/Bahadurgarh. Mamu's four daughters became, by sheer time spent under the same roof, my sisters. Some days they still feel like daughters. The Indian extended family rearranges itself around things like this, and most of the time it's a gift.
 
-Ziqra, who has a deeper religious instinct than I do, immediately heard *open source contribution* and mapped it to *sadqa-e-jariah* — the Islamic concept of perpetual charity, the kind that keeps giving long after you are gone. A piece of code people use after you're dead, she said, is a kind of prayer. *(That is its own post for another day.)*
+Ziqra has a deeper religious instinct than I do, and made the connection at once: open-source contribution is a form of *sadqa-e-jariah* — the Islamic idea of perpetual charity, the kind that keeps giving long after you are gone. A piece of code people use after you're dead, she said, is a kind of prayer. *(That's its own post for another day.)*
 
-**My brother Mehtab.** Guddu has done everything I dreamed of doing. He did a [GSoC with XBMC/Kodi in 2018](https://blog.mzfr.me/), then GSoC with Honeynet on [SNARE/TANNER in 2020](https://www.honeynet.org/2020/11/13/gsoc-2020-project-summary-snare-tanner/), and came back as a Honeynet mentor afterward. He finished his master's at NUS and is now starting his PhD there in the [Trustworthy and Secure Software lab](https://nus-tss.github.io/team/), after a stint at NUS's TEST Lab on his master's dissertation. Somewhere along the way he also picked up an OSCP, an eJPT, and bug-bounty Hall-of-Fame entries at GitHub, PayPal, and Google[^mehtab]. He writes some of the best [security blog posts](https://blog.mzfr.me/) I read.
+**My brother Mehtab.** Guddu has done everything I dreamed of doing. He did a [GSoC with XBMC/Kodi in 2018](https://blog.mzfr.me/), then GSoC with Honeynet on [SNARE/TANNER in 2020](https://www.honeynet.org/2020/11/13/gsoc-2020-project-summary-snare-tanner/), and came back the next year as a Honeynet GSoC mentor. He finished his master's at NUS and is now doing his PhD there, in the [Trustworthy and Secure Software lab](https://nus-tss.github.io/team/). Somewhere along the way he also picked up an OSCP, an eJPT, and bug-bounty Hall-of-Fame entries at GitHub, PayPal, and Google[^mehtab]. He writes some of the best [security blog posts](https://blog.mzfr.me/) I read.
 
-[^mehtab]: He doesn't publicize this stuff much, so I am going to be the embarrassing older brother and do it for him. The full list is on his [about page](https://blog.mzfr.me/about/).
+[^mehtab]: He doesn't publicise this stuff much, so I'm going to be the embarrassing older brother and do it for him. The full list is on his [about page](https://blog.mzfr.me/about/).
 
-**My future kids.** Family is a thing I am thinking seriously about this year. If I'm lucky enough to have children, I would love for one of them — even one — to grow up and contribute to MetaBrainz. Half-joking, half-not. Every father wants his progeny to carry his loves forward. This is mine.
+**My future kids.** Family is something I'm thinking seriously about this year. If I'm lucky enough to have children, I'd love for at least one of them to grow up contributing to open source — the way I did, the way Mehtab did. Half-joking, half-not. Every father wants his kids to carry his loves forward. This is one of mine.
 
-**Travel.** The day I get to travel Europe properly, the [MetaBrainz office](https://metabrainz.org/team) — wherever it is currently centered — is on my list. I'd like to  shake the hands of the people who paid for my mother's loan, even if they don't remember me.
+**Other projects.** I daily-drove [KDE](https://kde.org/) for three or four years and was floored by the quality of the desktop they ship as volunteers. My C++ wasn't strong enough then to contribute. Maybe one day. There are a hundred volunteer-led projects — Wikipedia, Debian, Mozilla, Inkscape, OpenStreetMap — that hold up huge chunks of the internet without anyone making them. I don't have the right words for the respect I feel toward people who do that work for free, year after year.
 
-**Other projects.** [KDE](https://kde.org/) deserves a sentence. I daily-drove KDE for three or four years and was floored by the quality of desktop they ship as volunteers. My C++ wasn't strong enough then to contribute. Maybe one day. There are a hundred volunteer-led projects — Wikipedia, Debian, Mozilla, Inkscape, OpenStreetMap — that hold up large parts of the digital world without anyone making them. I don't have the right words for the respect I feel toward people who do that work for free, year after year.
-
-**The debt.** Career-wise, I am what I am because of open source. Three GSoC stipends opened doors I couldn't have walked through otherwise. The work I did on Picard and CritiqueBrainz and Mitmproxy taught me what production code looks like, what code review looks like, what a well-run community looks like. Every job I've had since has been a derivative of that summer in Dhandhera at 3 AM with the MTS dongle.
+**The debt.** Career-wise, I am what I am because of open source. Three GSoC stipends opened doors I could not have walked through otherwise. The work I did on Picard and CritiqueBrainz and Mitmproxy taught me what production code looks like, what code review looks like, what a working community looks like. Every job I've had since has been a derivative of that summer in Dhandhera at 3 AM with the MTS dongle.
 
 I owe these projects something. I have to pay it back somehow.
 
 ## end
 
-*Qarz-e-Hunar* means **the debt of craft**. The debt you owe the people and projects that taught you how to make things. The debt you can only repay by making more things — and by helping someone else start.
-
-It is, gratefully, not the kind of debt my mother feared. It does not stand against a salary, and it does not compound. It is the kind of debt you pay back in PRs, in mentorship, in time you make for a neighbor's kid, in small comments on someone else's IRC channel at 3 AM.
+The debt of craft is, gratefully, not the kind of debt my mother feared. It doesn't stand against a salary; it doesn't compound. You pay it back in PRs, in mentorship, in time you make for a neighbour's kid, in small comments on someone else's IRC channel at 3 AM. By making more things. By helping someone else start.
 
 ---
 
 Aaron Swartz, on a stage in the sun, microphone in hand: *programming is a superpower.*
 
-A boy in Gurgaon Sector 5, hunched over a desktop with his little brother, downloading a stranger's video on a pendrive that cost him ten rupees an hour.
+A boy in Gurgaon Sector 5, hunched over the family desktop with his little brother, picking through a pendrive of cybercafe loot.
 
-Both of them are still here. Both of them are still listening.
+The man on the stage is still saying it. The boy at the desk is still listening.
