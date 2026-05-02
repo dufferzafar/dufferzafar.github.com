@@ -3,9 +3,9 @@ title: "Qarz-e-Hunar"
 date: 2026-05-01
 ---
 
-We didn't have internet at home.
+In 2011, my internet came home on a pendrive.
 
-So after school, I'd walk down to the cybercafe near our house, hand the man behind the counter a ten-rupee note (twenty when I felt rich), plug in my pendrive, and start scraping. Wikipedia pages, programming tutorials, conference talks, PDFs — whatever caught my eye that week. I never actually watched anything inside the cafe; I was greedy with the bandwidth. The real treat was carrying it all home and going through it slowly at the family desktop, where my younger brother [Mehtab](https://blog.mzfr.me/) — Guddu — would come visit during his school holidays and we'd sit there hunched together, learning whatever we could.
+After school, I'd walk down to the cybercafe near our house, hand the man behind the counter a ten-rupee note (twenty when I felt rich), plug in my pendrive, and start scraping. Wikipedia pages, programming tutorials, conference talks, PDFs — whatever caught my eye that week. I never actually watched anything inside the cafe; I was greedy with the bandwidth. The real treat was carrying it all home and going through it slowly at the family desktop, where my younger brother [Mehtab](https://blog.mzfr.me/) — Guddu — would come visit during his school holidays and we'd sit there hunched together, learning whatever we could.
 
 ![Me and Guddu at that desk, August 2010](/images/Shadab-Mehtab-20100812.jpg)
 
