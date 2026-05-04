@@ -261,7 +261,7 @@ who throw their lasso at the stars.)*[^iqbal-2]
 
 What follows is personal. These are the reasons I started writing.
 
-**Iqra**, my sister — nickname *Muskan*, "the smiler" — just got into MBBS. The first time I held her was July 2005, a few days after she was born, and I fell in love on the spot. Allah has, by some accounting I do not understand, kept that smile in working order ever since. You'll never catch her crying in public. She has her bathrooms for that.
+**Iqra**, my sister — nickname *Muskan*, "the smiler" — just got into MBBS. The first time I held her was Sept 2005, a few days after she was born, and I fell in love on the spot. Allah has, by some accounting I do not understand, kept that smile in working order ever since. You'll never catch her crying in public. She has her bathrooms for that.
 
 ![Iqra at our desk, July 2009](/images/Muskan-PC-20090719.jpg)
 
